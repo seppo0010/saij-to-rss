@@ -6,16 +6,16 @@ from github import Github, GithubIntegration
 import requests
 from feedgen.feed import FeedGenerator
 
-orgname, reponame = os.environ['GITHUB_REPOSITORY'].split('/')
+orgname, reponame = os.environ['PUBLISH_GITHUB_REPOSITORY'].split('/')
 
 ghi = GithubIntegration(
-        os.environ['GITHUB_APP_ID'],
-        base64.b64decode(os.environ['GITHUB_PRIVATE_KEY_BASE64']),
+        os.environ['PUBLISH_GITHUB_APP_ID'],
+        base64.b64decode(os.environ['PUBLISH_GITHUB_PRIVATE_KEY_BASE64']),
 )
 g = Github(ghi.get_access_token(
     ghi.get_installation(orgname, reponame).id
 ).token)
-repo = g.get_repo(os.environ['GITHUB_REPOSITORY'])
+repo = g.get_repo(os.environ['PUBLISH_GITHUB_REPOSITORY'])
 
 fg = FeedGenerator()
 fg.title('SAIJ: Jurisprudencia CSJN')
