@@ -1,7 +1,21 @@
+import base64
 import json
+import os
 
+from github import Github, GithubIntegration
 import requests
 from feedgen.feed import FeedGenerator
+
+orgname, reponame = os.environ['GITHUB_REPOSITORY'].split('/')
+
+ghi = GithubIntegration(
+        os.environ['GITHUB_APP_ID'],
+        base64.b64decode(os.environ['GITHUB_PRIVATE_KEY_BASE64']),
+)
+g = Github(ghi.get_access_token(
+    ghi.get_installation(orgname, reponame).id
+).token)
+repo = g.get_repo(os.environ['GITHUB_REPOSITORY'])
 
 fg = FeedGenerator()
 fg.title('SAIJ: Jurisprudencia CSJN')
@@ -45,4 +59,5 @@ for doc in data['searchResults']['documentResultList']:
     fe.title(data['document']['content']['sumario'])
     fe.description(data['document']['content']['texto'])
 
-print(fg.rss_str(pretty=True))
+rss = fg.rss_str(pretty=True)
+repo.create_file("rss.xml", "Update rss", rss, branch="gh-pages")
