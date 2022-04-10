@@ -60,4 +60,5 @@ for doc in data['searchResults']['documentResultList']:
     fe.description(data['document']['content']['texto'])
 
 rss = fg.rss_str(pretty=True)
-repo.create_file("rss.xml", "Update rss", rss, branch="gh-pages")
+contents = repo.get_contents("rss.xml", ref="gh-pages")
+repo.update_file(contents.path, "Update rss", rss, contents.sha, branch="gh-pages")
