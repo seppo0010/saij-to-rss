@@ -28,7 +28,7 @@ r = requests.get(URL)
 data = r.json()
 for doc in data['searchResults']['documentResultList']:
     abstract = json.loads(doc['documentAbstract'])
-    url = 'http://www.saij.gob.ar/{}/{}'.format(
+    permaurl = 'http://www.saij.gob.ar/{}/{}'.format(
         abstract['document']['metadata']['friendly-url']['description'],
         abstract['document']['metadata']['uuid'],
     )
@@ -55,7 +55,7 @@ for doc in data['searchResults']['documentResultList']:
     data = json.loads(r.json()['data'])
     fe = fg.add_entry()
     fe.id(url)
-    fe.link(href=url)
+    fe.link(href=permaurl)
     fe.title(data['document']['content']['sumario'])
     fe.description(data['document']['content']['texto'])
 
