@@ -14,3 +14,8 @@ jobs:
           cache: 'pip'
       - run: pip install -r requirements.txt
       - run: python main.py
+        env:
+          PUBLISH_GITHUB_ACCESS_TOKEN: ${{ secrets.PUBLISH_GITHUB_ACCESS_TOKEN }}
+          PUBLISH_GITHUB_REPOSITORY: ${{ secrets.PUBLISH_GITHUB_REPOSITORY }}
+          PUBLISH_GITHUB_APP_ID: ${{ secrets.PUBLISH_GITHUB_APP_ID }}
+          PUBLISH_GITHUB_PRIVATE_KEY_BASE64: ${{ secrets.PUBLISH_GITHUB_PRIVATE_KEY_BASE64 }}
