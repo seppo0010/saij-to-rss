@@ -6,18 +6,18 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Apr 2022 01:50:06 +0000</lastBuildDate>
-    <item>
-      <title>[[p]]CADUCIDAD DE INSTANCIA-FERIA JUDICIAL-EMERGENCIA SANITARIA-COVID 19[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-ramaditas-sa-afip-juicio-conocimiento-fa21000224-2021-12-07/123456789-422-0001-2ots-eupmocsollaf</link>
-      <description>[[p]]El planteo de caducidad debe ser rechazado según lo previsto por el [[r uuid:CT001]]art. 311 del código de rito[[/r uuid:CT001]], pues desde que se había ordenado la elevación de la causa a la Corte hasta que se solicitó la caducidad no transcurrió un plazo superior al previsto por el [[r uuid:CT002]]art. 310, inc. 2°, del Código Procesal Civil y Comercial de la Nación[[/r uuid:CT002]], ya que, dadas las circunstancias excepcionales de la emergencia sanitaria - Pandemia por Covid-19- no puede reprochársele a la actora que no haya urgido la remisión de las actuaciones a la Corte -con las consecuencias pretendidas por la peticionaria- en tanto el trámite de la causa se vio interferido por aquellos acontecimientos que motivaron el dictado de una feria extraordinaria.[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/view-document?guid=123456789-0abc-defg0772-800asoiramus</guid>
-    </item>
+    <lastBuildDate>Fri, 15 Apr 2022 01:43:16 +0000</lastBuildDate>
     <item>
       <title>[[p]]SENTENCIA CONDENATORIA-SENTENCIA ARBITRARIA-FUNDAMENTACION DE SENTENCIAS-TRIBUNAL COLEGIADO-VOTO DE LOS JUECES[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-canete-carlos-eusebio-otro-incidente-recurso-extraordinario-fa21000225-2021-12-07/123456789-522-0001-2ots-eupmocsollaf</link>
       <description>[[p]]Es arbitraria la sentencia condenatoria que atribuyó la calificación dolosa del homicidio, pues del análisis de los votos que terminan confirmando la condena por el delito de homicidio en ocasión de robo no se evidencia una concordancia sustancial de opiniones dirimentes en las que se funde la decisión adoptada, es decir no ha existido una mayoría real de sus integrantes que sustente las conclusiones del pronunciamiento, requisito indispensable para su validez.[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/view-document?guid=123456789-0abc-defg2772-800asoiramus</guid>
+    </item>
+    <item>
+      <title>[[p]]CADUCIDAD DE INSTANCIA-FERIA JUDICIAL-EMERGENCIA SANITARIA-COVID 19[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-ramaditas-sa-afip-juicio-conocimiento-fa21000224-2021-12-07/123456789-422-0001-2ots-eupmocsollaf</link>
+      <description>[[p]]El planteo de caducidad debe ser rechazado según lo previsto por el [[r uuid:CT001]]art. 311 del código de rito[[/r uuid:CT001]], pues desde que se había ordenado la elevación de la causa a la Corte hasta que se solicitó la caducidad no transcurrió un plazo superior al previsto por el [[r uuid:CT002]]art. 310, inc. 2°, del Código Procesal Civil y Comercial de la Nación[[/r uuid:CT002]], ya que, dadas las circunstancias excepcionales de la emergencia sanitaria - Pandemia por Covid-19- no puede reprochársele a la actora que no haya urgido la remisión de las actuaciones a la Corte -con las consecuencias pretendidas por la peticionaria- en tanto el trámite de la causa se vio interferido por aquellos acontecimientos que motivaron el dictado de una feria extraordinaria.[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/view-document?guid=123456789-0abc-defg0772-800asoiramus</guid>
     </item>
     <item>
       <title>[[p]]CONSEJO DE LA MAGISTRATURA-DECLARACION DE INCONSTITUCIONALIDAD[[/p]]</title>
@@ -62,10 +62,10 @@
       <guid isPermaLink="false">http://www.saij.gob.ar/view-document?guid=123456789-0abc-defg7582-800asoiramus</guid>
     </item>
     <item>
-      <title>[[p]]COMPETENCIA ORIGINARIA DE LA CORTE SUPREMA-COMPETENCIA ORIGINARIA-PROVINCIAS-DECLINATORIA DE JURISDICCION-PRORROGA DE LA COMPETENCIA[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-asociacion-civil-personeria-juridica-cuenca-rio-parana-aguas-santafesinas-sa-otros-amparo-ambiental-fa22000015-2022-03-22/123456789-510-0002-2ots-eupmocsollaf</link>
-      <description>[[p]]Corresponde tener por declinado el privilegio que otorga el [[r uuid:CT001]]art. 117 de la Constitución Nacional[[/r uuid:CT001]], toda vez que la provincia demandada ha prorrogado la competencia originaria a favor del juzgado federal de primera instancia al hacer sus primeras presentaciones en el expediente sin ejercer el privilegio citado y ha revelado de manera expresa su voluntad de acudir a la competencia apelada de la Corte, en los términos del [[r uuid:CT002]]art. 14 de la ley 48[[/r uuid:CT002]], en la eventualidad de un fallo adverso a sus intereses, sin que obste a ello el hecho de que el estado provincial no haya cuestionado la decisión por la cual la cámara entendió que el caso correspondía a la competencia originaria, en tanto es el, como sujeto aforado, el que debió reclamarla en la primera oportunidad.[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/view-document?guid=123456789-0abc-defg7782-800asoiramus</guid>
+      <title>[[p]]CUESTIONES DE COMPETENCIA-COMPETENCIA CONTENCIOSO ADMINISTRATIVA FEDERAL-ACCION DECLARATIVA DE CERTEZA-INHIBITORIA[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-egger-argentina-sa-gcba-agip-dgr-proceso-conocimiento-fa22000016-2022-03-22/123456789-610-0002-2ots-eupmocsollaf</link>
+      <description>[[p]]Resulta competente la justicia de primera instancia en lo contencioso administrativo federal para entender en la acción declarativa de certeza e inconstitucionalidad promovida por la sociedad actora contra el GCBA, toda vez que con carácter previo al dictado de la sentencia del superior tribunal local que hizo lugar al planteo de inhibitoria, el juez a cargo del juzgado contencioso administrativo federal dictó sentencia sobre el fondo de la cuestión debatida, razón por la cual corresponde mantener la competencia del citado tribunal federal. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/view-document?guid=123456789-0abc-defg0882-800asoiramus</guid>
     </item>
     <item>
       <title>[[p]]EXTRADICION-FUNDAMENTACION DEL RECURSO-FUNDAMENTACION INSUFICIENTE[[/p]]</title>
@@ -74,28 +74,16 @@
       <guid isPermaLink="false">http://www.saij.gob.ar/view-document?guid=123456789-0abc-defg5782-800asoiramus</guid>
     </item>
     <item>
-      <title>[[p]]CUESTIONES DE COMPETENCIA-COMPETENCIA CONTENCIOSO ADMINISTRATIVA FEDERAL-ACCION DECLARATIVA DE CERTEZA-INHIBITORIA[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-egger-argentina-sa-gcba-agip-dgr-proceso-conocimiento-fa22000016-2022-03-22/123456789-610-0002-2ots-eupmocsollaf</link>
-      <description>[[p]]Resulta competente la justicia de primera instancia en lo contencioso administrativo federal para entender en la acción declarativa de certeza e inconstitucionalidad promovida por la sociedad actora contra el GCBA, toda vez que con carácter previo al dictado de la sentencia del superior tribunal local que hizo lugar al planteo de inhibitoria, el juez a cargo del juzgado contencioso administrativo federal dictó sentencia sobre el fondo de la cuestión debatida, razón por la cual corresponde mantener la competencia del citado tribunal federal. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/view-document?guid=123456789-0abc-defg0882-800asoiramus</guid>
-    </item>
-    <item>
       <title>[[p]]DEMANDA DE INCONSTITUCIONALIDAD-FUNDAMENTACION DEL RECURSO-FALTA DE FUNDAMENTACION[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-indar-tax-sa-gcba-otros-impugnacion-actos-administrativos-recurso-inconstitucionalidad-concedido-fa22000017-2022-03-22/123456789-710-0002-2ots-eupmocsollaf</link>
       <description>[[p]]La sola alegación de que una norma vulnera la Constitución Nacional no satisface la exigencia de debida fundamentación, en los términos del [[r uuid:CT001]]art. 15 de la ley 48[[/r uuid:CT001]], si no se expresan razones justificantes de tal aserto, como tampoco es suficiente, a tal fin, la reiteración dogmática de meras manifestaciones, opuestas con anterioridad y atendidas, a su turno, por los jueces de la causa. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/view-document?guid=123456789-0abc-defg3882-800asoiramus</guid>
     </item>
     <item>
-      <title>[[p]]PRIVACION ILEGAL DE LA LIBERTAD-MENORES-POLICIA PROVINCIAL-HABEAS CORPUS-SENTENCIA ARBITRARIA-FUNDAMENTACION DE SENTENCIAS-FALTA DE FUNDAMENTACION[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-arias-patricia-def-menores-incapaces-habeas-corpus-preventivo-casacion-fa22000009-2022-03-29/123456789-900-0002-2ots-eupmocsollaf</link>
-      <description>[[p]]Es arbitraria la sentencia que revocó la decisión del a quo que había admitido la acción de habeas corpus colectiva presentada por la Defensora de Menores y ordenado a la policía local el cese de la práctica de privar de la libertad a niños y niñas bajo el amparo del [[r uuid:CT001]]artículo 5, inciso "a" de la ley 4109 de Rio Negro[[/r uuid:CT001]], toda vez que ella no satisface la exigencia de fundamentación, en tanto se sustenta en la afirmación dogmática de una solución jurídica, desprovista del debido examen razonado de las circunstancias del caso y de los términos en que se planteó la cuestión debatida en el proceso. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/view-document?guid=123456789-0abc-defg1682-800asoiramus</guid>
-    </item>
-    <item>
-      <title>[[p]]CONFLICTOS DE COMPETENCIA-COMPETENCIA FEDERAL-LAVADO DE DINERO-SOCIEDAD CONYUGAL[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-garfunkel-rafael-augusto-otros-incidente-incompetencia-fa22000018-2022-03-29/123456789-810-0002-2ots-eupmocsollaf</link>
-      <description>[[p]]Es competente la justicia federal para entender en las causa instruidas con motivo de la denuncia por presunta ocultación de activos de la sociedad conyugal a través de una empresa y defraudación a los intereses de los accionistas de una sociedad comercial, pues el juez federal, al rechazar la atribución de competencia, se limitó a considerar que las pruebas colectadas no bastaban para demostrar la materialidad de las actividades ilícitas que sostenían la hipótesis del lavado de activos -cuestión de exclusivo conocimiento del fuero de excepción- e inclusive admitió su presunción al afirmar que no podían soslayarse las consideraciones de los organismos especializados -PROCELAC y la UIF- en la investigación de ese delito. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/view-document?guid=123456789-0abc-defg9882-800asoiramus</guid>
+      <title>[[p]]COMPETENCIA ORIGINARIA DE LA CORTE SUPREMA-COMPETENCIA ORIGINARIA-PROVINCIAS-DECLINATORIA DE JURISDICCION-PRORROGA DE LA COMPETENCIA[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-asociacion-civil-personeria-juridica-cuenca-rio-parana-aguas-santafesinas-sa-otros-amparo-ambiental-fa22000015-2022-03-22/123456789-510-0002-2ots-eupmocsollaf</link>
+      <description>[[p]]Corresponde tener por declinado el privilegio que otorga el [[r uuid:CT001]]art. 117 de la Constitución Nacional[[/r uuid:CT001]], toda vez que la provincia demandada ha prorrogado la competencia originaria a favor del juzgado federal de primera instancia al hacer sus primeras presentaciones en el expediente sin ejercer el privilegio citado y ha revelado de manera expresa su voluntad de acudir a la competencia apelada de la Corte, en los términos del [[r uuid:CT002]]art. 14 de la ley 48[[/r uuid:CT002]], en la eventualidad de un fallo adverso a sus intereses, sin que obste a ello el hecho de que el estado provincial no haya cuestionado la decisión por la cual la cámara entendió que el caso correspondía a la competencia originaria, en tanto es el, como sujeto aforado, el que debió reclamarla en la primera oportunidad.[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/view-document?guid=123456789-0abc-defg7782-800asoiramus</guid>
     </item>
     <item>
       <title>[[p]]TRATA DE PERSONAS-CONFLICTOS DE COMPETENCIA-COMPETENCIA FEDERAL[[/p]]</title>
@@ -104,10 +92,22 @@
       <guid isPermaLink="false">http://www.saij.gob.ar/view-document?guid=123456789-0abc-defg1982-800asoiramus</guid>
     </item>
     <item>
-      <title>[[p]]ASOCIACION ILICITA-DELITO PERMANENTE-COMPETENCIA-ECONOMIA PROCESAL[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-acosta-fabian-alejandro-otros-incidente-incompetencia-fa22000011-2022-04-07/123456789-110-0002-2ots-eupmocsollaf</link>
-      <description>[[p]]El delito de asociación ilícita tiene el carácter de permanente, y si el accionar se ha verificado en varias jurisdicciones corresponde atribuir la competencia al magistrado que resulte más conveniente por razones de economía procesal. -Del dictamen de la Procuración General al que la Corte remite-.[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/view-document?guid=123456789-0abc-defg9682-800asoiramus</guid>
+      <title>[[p]]CONFLICTOS DE COMPETENCIA-COMPETENCIA FEDERAL-LAVADO DE DINERO-SOCIEDAD CONYUGAL[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-garfunkel-rafael-augusto-otros-incidente-incompetencia-fa22000018-2022-03-29/123456789-810-0002-2ots-eupmocsollaf</link>
+      <description>[[p]]Es competente la justicia federal para entender en las causa instruidas con motivo de la denuncia por presunta ocultación de activos de la sociedad conyugal a través de una empresa y defraudación a los intereses de los accionistas de una sociedad comercial, pues el juez federal, al rechazar la atribución de competencia, se limitó a considerar que las pruebas colectadas no bastaban para demostrar la materialidad de las actividades ilícitas que sostenían la hipótesis del lavado de activos -cuestión de exclusivo conocimiento del fuero de excepción- e inclusive admitió su presunción al afirmar que no podían soslayarse las consideraciones de los organismos especializados -PROCELAC y la UIF- en la investigación de ese delito. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/view-document?guid=123456789-0abc-defg9882-800asoiramus</guid>
+    </item>
+    <item>
+      <title>[[p]]PRIVACION ILEGAL DE LA LIBERTAD-MENORES-POLICIA PROVINCIAL-HABEAS CORPUS-SENTENCIA ARBITRARIA-FUNDAMENTACION DE SENTENCIAS-FALTA DE FUNDAMENTACION[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-arias-patricia-def-menores-incapaces-habeas-corpus-preventivo-casacion-fa22000009-2022-03-29/123456789-900-0002-2ots-eupmocsollaf</link>
+      <description>[[p]]Es arbitraria la sentencia que revocó la decisión del a quo que había admitido la acción de habeas corpus colectiva presentada por la Defensora de Menores y ordenado a la policía local el cese de la práctica de privar de la libertad a niños y niñas bajo el amparo del [[r uuid:CT001]]artículo 5, inciso "a" de la ley 4109 de Rio Negro[[/r uuid:CT001]], toda vez que ella no satisface la exigencia de fundamentación, en tanto se sustenta en la afirmación dogmática de una solución jurídica, desprovista del debido examen razonado de las circunstancias del caso y de los términos en que se planteó la cuestión debatida en el proceso. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/view-document?guid=123456789-0abc-defg1682-800asoiramus</guid>
+    </item>
+    <item>
+      <title>[[p]]PROTECCION DE LA FAUNA-ESPECIES PROTEGIDAS-COMPETENCIA LOCAL[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-nn-incidente-incompetencia-fa22000010-2022-04-07/123456789-010-0002-2ots-eupmocsollaf</link>
+      <description>[[p]]Es competente la justicia provincial para entender en la causa en la que se investiga la presunta infracción prevista y reprimida en el [[r uuid:CT001]]artículo 27[[/r uuid:CT001]], en función del artículo 25, de la ley 22.421 de Conservación de la Fauna, pues si bien es cierto que una de las aves halladas -cardenal amarillo- se encuentra categorizada en el apéndice II del CITES -especies no necesariamente amenazadas de extinción pero que podrían llegar a estarlo a menos que se controle estrictamente su comercio- y, más allá de la notoria importancia social de la especie afectada, no surge de las actuaciones aquellos supuestos específicos -marcado interés nacional e internacional por su protección y conservación, expresado en normas jurídicas particulares del Estado federal- y tampoco surge una afectación que trascienda la jurisdicción local o elemento alguno que suscite la competencia federal.[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/view-document?guid=123456789-0abc-defg7682-800asoiramus</guid>
     </item>
     <item>
       <title>[[p]]RECURSO DE QUEJA (PROCESAL)-BENEFICIO DE LITIGAR SIN GASTOS-SUSPENSION DEL PROCESO[[/p]]</title>
@@ -116,10 +116,10 @@
       <guid isPermaLink="false">http://www.saij.gob.ar/view-document?guid=123456789-0abc-defg3782-800asoiramus</guid>
     </item>
     <item>
-      <title>[[p]]PROTECCION DE LA FAUNA-ESPECIES PROTEGIDAS-COMPETENCIA LOCAL[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-nn-incidente-incompetencia-fa22000010-2022-04-07/123456789-010-0002-2ots-eupmocsollaf</link>
-      <description>[[p]]Es competente la justicia provincial para entender en la causa en la que se investiga la presunta infracción prevista y reprimida en el [[r uuid:CT001]]artículo 27[[/r uuid:CT001]], en función del artículo 25, de la ley 22.421 de Conservación de la Fauna, pues si bien es cierto que una de las aves halladas -cardenal amarillo- se encuentra categorizada en el apéndice II del CITES -especies no necesariamente amenazadas de extinción pero que podrían llegar a estarlo a menos que se controle estrictamente su comercio- y, más allá de la notoria importancia social de la especie afectada, no surge de las actuaciones aquellos supuestos específicos -marcado interés nacional e internacional por su protección y conservación, expresado en normas jurídicas particulares del Estado federal- y tampoco surge una afectación que trascienda la jurisdicción local o elemento alguno que suscite la competencia federal.[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/view-document?guid=123456789-0abc-defg7682-800asoiramus</guid>
+      <title>[[p]]ASOCIACION ILICITA-DELITO PERMANENTE-COMPETENCIA-ECONOMIA PROCESAL[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-acosta-fabian-alejandro-otros-incidente-incompetencia-fa22000011-2022-04-07/123456789-110-0002-2ots-eupmocsollaf</link>
+      <description>[[p]]El delito de asociación ilícita tiene el carácter de permanente, y si el accionar se ha verificado en varias jurisdicciones corresponde atribuir la competencia al magistrado que resulte más conveniente por razones de economía procesal. -Del dictamen de la Procuración General al que la Corte remite-.[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/view-document?guid=123456789-0abc-defg9682-800asoiramus</guid>
     </item>
   </channel>
 </rss>
