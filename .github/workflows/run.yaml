@@ -1,4 +1,4 @@
-name: Publish RSS Feed
+name: Publish RSS Feed and send messages to Telegram
 on:
   push:
   schedule:
