@@ -6,13 +6,7 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Apr 2022 01:57:43 +0000</lastBuildDate>
-    <item>
-      <title>[[p]]AMPARO AMBIENTAL-ACUMULACION DE PROCESOS-CONEXIDAD-QUEMA DE PASTIZALES-RECOMPOSICION DEL DAÑO AMBIENTAL[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-asociacion-civil-justicia-ambiental-otros-entre-rios-provincia-otros-amparo-ambiental-fa21000230-2021-12-28/123456789-032-0001-2ots-eupmocsollaf</link>
-      <description>[[p]]Corresponde afirmar que las pretensiones son conexas, y que entre unas y otras existe una relación de continencia que determina la acumulación de los expedientes en los términos de los artículos [[r uuid:CT001]]4° de la ley 16.986[[/r uuid:CT001]] y [[r uuid:CT002]]188 y siguientes del Código Procesal Civil y Comercial de la Nación[[/r uuid:CT002]], toda vez que los procesos de amparo colectivo ambiental iniciados, tienen el mismo objeto (cese de las quemas de pastizales y recomposición del daño ambiental) y la misma causa de pedir (afectación de los habitantes de la ciudad de Rosario y degradación del medio ambiente).[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-asociacion-civil-justicia-ambiental-otros-entre-rios-provincia-otros-amparo-ambiental-fa21000230-2021-12-28/123456789-032-0001-2ots-eupmocsollaf</guid>
-    </item>
+    <lastBuildDate>Sat, 30 Apr 2022 01:57:37 +0000</lastBuildDate>
     <item>
       <title>[[p]]FUERZAS DE SEGURIDAD-PREFECTURA NAVAL ARGENTINA-BENEFICIOS PREVISIONALES-INCAPACIDAD-ENFERMEDAD ACCIDENTE-ACTOS DE SERVICIO[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-breard-juan-carlos-prefectura-naval-argentina-reclamos-varios-fa22000002-2022-02-03/123456789-200-0002-2ots-eupmocsollaf</link>
@@ -50,10 +44,10 @@
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-lebos-alberto-incidente-incompetencia-fa22000008-2022-03-10/123456789-800-0002-2ots-eupmocsollaf</guid>
     </item>
     <item>
-      <title>[[p]]CUESTIONES DE COMPETENCIA-COMPETENCIA CONTENCIOSO ADMINISTRATIVA FEDERAL-ACCION DECLARATIVA DE CERTEZA-INHIBITORIA[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-egger-argentina-sa-gcba-agip-dgr-proceso-conocimiento-fa22000016-2022-03-22/123456789-610-0002-2ots-eupmocsollaf</link>
-      <description>[[p]]Resulta competente la justicia de primera instancia en lo contencioso administrativo federal para entender en la acción declarativa de certeza e inconstitucionalidad promovida por la sociedad actora contra el GCBA, toda vez que con carácter previo al dictado de la sentencia del superior tribunal local que hizo lugar al planteo de inhibitoria, el juez a cargo del juzgado contencioso administrativo federal dictó sentencia sobre el fondo de la cuestión debatida, razón por la cual corresponde mantener la competencia del citado tribunal federal. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-egger-argentina-sa-gcba-agip-dgr-proceso-conocimiento-fa22000016-2022-03-22/123456789-610-0002-2ots-eupmocsollaf</guid>
+      <title>[[p]]COMPETENCIA ORIGINARIA DE LA CORTE SUPREMA-COMPETENCIA ORIGINARIA-PROVINCIAS-DECLINATORIA DE JURISDICCION-PRORROGA DE LA COMPETENCIA[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-asociacion-civil-personeria-juridica-cuenca-rio-parana-aguas-santafesinas-sa-otros-amparo-ambiental-fa22000015-2022-03-22/123456789-510-0002-2ots-eupmocsollaf</link>
+      <description>[[p]]Corresponde tener por declinado el privilegio que otorga el [[r uuid:CT001]]art. 117 de la Constitución Nacional[[/r uuid:CT001]], toda vez que la provincia demandada ha prorrogado la competencia originaria a favor del juzgado federal de primera instancia al hacer sus primeras presentaciones en el expediente sin ejercer el privilegio citado y ha revelado de manera expresa su voluntad de acudir a la competencia apelada de la Corte, en los términos del [[r uuid:CT002]]art. 14 de la ley 48[[/r uuid:CT002]], en la eventualidad de un fallo adverso a sus intereses, sin que obste a ello el hecho de que el estado provincial no haya cuestionado la decisión por la cual la cámara entendió que el caso correspondía a la competencia originaria, en tanto es el, como sujeto aforado, el que debió reclamarla en la primera oportunidad.[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-asociacion-civil-personeria-juridica-cuenca-rio-parana-aguas-santafesinas-sa-otros-amparo-ambiental-fa22000015-2022-03-22/123456789-510-0002-2ots-eupmocsollaf</guid>
     </item>
     <item>
       <title>[[p]]EXTRADICION-FUNDAMENTACION DEL RECURSO-FUNDAMENTACION INSUFICIENTE[[/p]]</title>
@@ -62,16 +56,16 @@
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-villena-barrios-wilber-enrique-extradicion-fa22000014-2022-03-22/123456789-410-0002-2ots-eupmocsollaf</guid>
     </item>
     <item>
+      <title>[[p]]CUESTIONES DE COMPETENCIA-COMPETENCIA CONTENCIOSO ADMINISTRATIVA FEDERAL-ACCION DECLARATIVA DE CERTEZA-INHIBITORIA[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-egger-argentina-sa-gcba-agip-dgr-proceso-conocimiento-fa22000016-2022-03-22/123456789-610-0002-2ots-eupmocsollaf</link>
+      <description>[[p]]Resulta competente la justicia de primera instancia en lo contencioso administrativo federal para entender en la acción declarativa de certeza e inconstitucionalidad promovida por la sociedad actora contra el GCBA, toda vez que con carácter previo al dictado de la sentencia del superior tribunal local que hizo lugar al planteo de inhibitoria, el juez a cargo del juzgado contencioso administrativo federal dictó sentencia sobre el fondo de la cuestión debatida, razón por la cual corresponde mantener la competencia del citado tribunal federal. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-egger-argentina-sa-gcba-agip-dgr-proceso-conocimiento-fa22000016-2022-03-22/123456789-610-0002-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
       <title>[[p]]DEMANDA DE INCONSTITUCIONALIDAD-FUNDAMENTACION DEL RECURSO-FALTA DE FUNDAMENTACION[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-indar-tax-sa-gcba-otros-impugnacion-actos-administrativos-recurso-inconstitucionalidad-concedido-fa22000017-2022-03-22/123456789-710-0002-2ots-eupmocsollaf</link>
       <description>[[p]]La sola alegación de que una norma vulnera la Constitución Nacional no satisface la exigencia de debida fundamentación, en los términos del [[r uuid:CT001]]art. 15 de la ley 48[[/r uuid:CT001]], si no se expresan razones justificantes de tal aserto, como tampoco es suficiente, a tal fin, la reiteración dogmática de meras manifestaciones, opuestas con anterioridad y atendidas, a su turno, por los jueces de la causa. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-indar-tax-sa-gcba-otros-impugnacion-actos-administrativos-recurso-inconstitucionalidad-concedido-fa22000017-2022-03-22/123456789-710-0002-2ots-eupmocsollaf</guid>
-    </item>
-    <item>
-      <title>[[p]]COMPETENCIA ORIGINARIA DE LA CORTE SUPREMA-COMPETENCIA ORIGINARIA-PROVINCIAS-DECLINATORIA DE JURISDICCION-PRORROGA DE LA COMPETENCIA[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-asociacion-civil-personeria-juridica-cuenca-rio-parana-aguas-santafesinas-sa-otros-amparo-ambiental-fa22000015-2022-03-22/123456789-510-0002-2ots-eupmocsollaf</link>
-      <description>[[p]]Corresponde tener por declinado el privilegio que otorga el [[r uuid:CT001]]art. 117 de la Constitución Nacional[[/r uuid:CT001]], toda vez que la provincia demandada ha prorrogado la competencia originaria a favor del juzgado federal de primera instancia al hacer sus primeras presentaciones en el expediente sin ejercer el privilegio citado y ha revelado de manera expresa su voluntad de acudir a la competencia apelada de la Corte, en los términos del [[r uuid:CT002]]art. 14 de la ley 48[[/r uuid:CT002]], en la eventualidad de un fallo adverso a sus intereses, sin que obste a ello el hecho de que el estado provincial no haya cuestionado la decisión por la cual la cámara entendió que el caso correspondía a la competencia originaria, en tanto es el, como sujeto aforado, el que debió reclamarla en la primera oportunidad.[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-asociacion-civil-personeria-juridica-cuenca-rio-parana-aguas-santafesinas-sa-otros-amparo-ambiental-fa22000015-2022-03-22/123456789-510-0002-2ots-eupmocsollaf</guid>
     </item>
     <item>
       <title>[[p]]PRIVACION ILEGAL DE LA LIBERTAD-MENORES-POLICIA PROVINCIAL-HABEAS CORPUS-SENTENCIA ARBITRARIA-FUNDAMENTACION DE SENTENCIAS-FALTA DE FUNDAMENTACION[[/p]]</title>
@@ -92,12 +86,6 @@
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-ezquiaga-maria-fabiana-otro-incidente-incompetencia-fa22000019-2022-03-29/123456789-910-0002-2ots-eupmocsollaf</guid>
     </item>
     <item>
-      <title>[[p]]PROTECCION DE LA FAUNA-ESPECIES PROTEGIDAS-COMPETENCIA LOCAL[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-nn-incidente-incompetencia-fa22000010-2022-04-07/123456789-010-0002-2ots-eupmocsollaf</link>
-      <description>[[p]]Es competente la justicia provincial para entender en la causa en la que se investiga la presunta infracción prevista y reprimida en el [[r uuid:CT001]]artículo 27[[/r uuid:CT001]], en función del artículo 25, de la ley 22.421 de Conservación de la Fauna, pues si bien es cierto que una de las aves halladas -cardenal amarillo- se encuentra categorizada en el apéndice II del CITES -especies no necesariamente amenazadas de extinción pero que podrían llegar a estarlo a menos que se controle estrictamente su comercio- y, más allá de la notoria importancia social de la especie afectada, no surge de las actuaciones aquellos supuestos específicos -marcado interés nacional e internacional por su protección y conservación, expresado en normas jurídicas particulares del Estado federal- y tampoco surge una afectación que trascienda la jurisdicción local o elemento alguno que suscite la competencia federal.[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-nn-incidente-incompetencia-fa22000010-2022-04-07/123456789-010-0002-2ots-eupmocsollaf</guid>
-    </item>
-    <item>
       <title>[[p]]ASOCIACION ILICITA-DELITO PERMANENTE-COMPETENCIA-ECONOMIA PROCESAL[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-acosta-fabian-alejandro-otros-incidente-incompetencia-fa22000011-2022-04-07/123456789-110-0002-2ots-eupmocsollaf</link>
       <description>[[p]]El delito de asociación ilícita tiene el carácter de permanente, y si el accionar se ha verificado en varias jurisdicciones corresponde atribuir la competencia al magistrado que resulte más conveniente por razones de economía procesal. -Del dictamen de la Procuración General al que la Corte remite-.[[/p]]</description>
@@ -108,6 +96,12 @@
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-cons-prop-federico-lacroze-2367-gutrejde-sandra-beatriz-ejecucion-expensas-fa22000013-2022-04-07/123456789-310-0002-2ots-eupmocsollaf</link>
       <description>[[p]]Corresponde rechazar el pedido para que se revoque la decisión de diferir el estudio del recurso de queja hasta que sea concedido el beneficio de litigar sin gastos, toda vez que la petición no se halla incluida en ninguna de las exenciones previstas en el [[r uuid:CT001]]art. 286 del Código Procesal Civil y Comercial de la Nación[[/r uuid:CT001]], ni se acredita haber obtenido el beneficio solicitado, sin que ello signifique suspender el curso del proceso que continuará mientras la Corte no haga lugar a la queja.[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-cons-prop-federico-lacroze-2367-gutrejde-sandra-beatriz-ejecucion-expensas-fa22000013-2022-04-07/123456789-310-0002-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]PROTECCION DE LA FAUNA-ESPECIES PROTEGIDAS-COMPETENCIA LOCAL[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-nn-incidente-incompetencia-fa22000010-2022-04-07/123456789-010-0002-2ots-eupmocsollaf</link>
+      <description>[[p]]Es competente la justicia provincial para entender en la causa en la que se investiga la presunta infracción prevista y reprimida en el [[r uuid:CT001]]artículo 27[[/r uuid:CT001]], en función del artículo 25, de la ley 22.421 de Conservación de la Fauna, pues si bien es cierto que una de las aves halladas -cardenal amarillo- se encuentra categorizada en el apéndice II del CITES -especies no necesariamente amenazadas de extinción pero que podrían llegar a estarlo a menos que se controle estrictamente su comercio- y, más allá de la notoria importancia social de la especie afectada, no surge de las actuaciones aquellos supuestos específicos -marcado interés nacional e internacional por su protección y conservación, expresado en normas jurídicas particulares del Estado federal- y tampoco surge una afectación que trascienda la jurisdicción local o elemento alguno que suscite la competencia federal.[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-nn-incidente-incompetencia-fa22000010-2022-04-07/123456789-010-0002-2ots-eupmocsollaf</guid>
     </item>
     <item>
       <title>[[p]]CONSEJO DE LA MAGISTRATURA-NULIDAD PROCESAL-MEDIDA INTERINA-FALLOS DE LA CORTE SUPREMA[[/p]]</title>
