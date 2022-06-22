@@ -6,13 +6,7 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Jun 2022 01:57:09 +0000</lastBuildDate>
-    <item>
-      <title>[[p]]RECUSACION-MINISTROS DE LA CORTE SUPREMA-RECHAZO IN LIMINE[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-garcia-pablo-daniel-queja-causa-85238-tribunal-casacion-penal-sala-iv-fa22000023-2022-04-19/123456789-320-0002-2ots-eupmocsollaf</link>
-      <description>[[p]]La recusación de los Ministros de la Corte Suprema de Justicia de la Nación, debe ser desestimada de plano por resultar manifiestamente improcedente, pues la causal de apartamiento que se invoca y los argumentos en los que se fundamenta el pedido gravitan únicamente en torno a la intervención de los jueces en ejercicio de sus atribuciones legales específicas.[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-garcia-pablo-daniel-queja-causa-85238-tribunal-casacion-penal-sala-iv-fa22000023-2022-04-19/123456789-320-0002-2ots-eupmocsollaf</guid>
-    </item>
+    <lastBuildDate>Wed, 22 Jun 2022 02:06:41 +0000</lastBuildDate>
     <item>
       <title>[[p]]AMICUS CURIAE-COMPETENCIA DE LA CORTE SUPREMA[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-asociacion-civil-macame-otros-estado-nacional-argentino-pen-amparo-ley-16986-fa22000028-2022-04-26/123456789-820-0002-2ots-eupmocsollaf</link>
@@ -114,6 +108,12 @@
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-agalor-hector-ariel-incidente-incompetencia-fa22000048-2022-05-31/123456789-840-0002-2ots-eupmocsollaf</link>
       <description>[[p]]Es competente el juez que previno, y a cuya sede acudió el denunciante para hacer valer sus derechos, para entender en la causa en la que se investiga el delito de estafa, pues el contrato de construcción de la obra que nunca se llevó a cabo se habría celebrado en esa jurisdicción, donde se pagó la primera de las cuotas, y además, es donde encuentra emplazado el terreno donde se construiría la vivienda objeto del contrato. -Del dictamen de la Procuración General al que la Corte remite-.[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-agalor-hector-ariel-incidente-incompetencia-fa22000048-2022-05-31/123456789-840-0002-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]CUESTIONES DE COMPETENCIA-LAVADO DE DINERO-DELITO AUTONOMO-SISTEMA FINANCIERO-COMPETENCIA FEDERAL[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-brulc-adrian-francisco-otros-incidente-incompetencia-fa22000049-2022-06-07/123456789-940-0002-2ots-eupmocsollaf</link>
+      <description>[[p]]A partir de la sanción de la [[r uuid:CT001]]Ley 26.683[[/r uuid:CT001]], la figura de lavado de dinero ya no es tratada como un encubrimiento calificado en perjuicio de la administración pública sino como un delito autónomo contra el sistema financiero nacional, por lo tanto, las conductas que por su forma de ejecución, los medios utilizados, su relativa complejidad y demás circunstancias resultan capaces de lesionar de manera autónoma los bienes jurídicos que protege el [[r uuid:CT002]]artículo 303 del Código Penal[[/r uuid:CT002]], suscitan la competencia de la justicia de excepción. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-brulc-adrian-francisco-otros-incidente-incompetencia-fa22000049-2022-06-07/123456789-940-0002-2ots-eupmocsollaf</guid>
     </item>
   </channel>
 </rss>
