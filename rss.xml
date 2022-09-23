@@ -6,13 +6,7 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Sep 2022 02:24:57 +0000</lastBuildDate>
-    <item>
-      <title>[[p]]CUESTIONES DE COMPETENCIA-COMPETENCIA POR EL TERRITORIO-JUEZ QUE PREVINO-ESTAFA-OBRA EN CONSTRUCCION[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-agalor-hector-ariel-incidente-incompetencia-fa22000048-2022-05-31/123456789-840-0002-2ots-eupmocsollaf</link>
-      <description>[[p]]Es competente el juez que previno, y a cuya sede acudió el denunciante para hacer valer sus derechos, para entender en la causa en la que se investiga el delito de estafa, pues el contrato de construcción de la obra que nunca se llevó a cabo se habría celebrado en esa jurisdicción, donde se pagó la primera de las cuotas, y además, es donde encuentra emplazado el terreno donde se construiría la vivienda objeto del contrato. -Del dictamen de la Procuración General al que la Corte remite-.[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-agalor-hector-ariel-incidente-incompetencia-fa22000048-2022-05-31/123456789-840-0002-2ots-eupmocsollaf</guid>
-    </item>
+    <lastBuildDate>Fri, 23 Sep 2022 02:29:42 +0000</lastBuildDate>
     <item>
       <title>[[p]]CUESTIONES DE COMPETENCIA-LAVADO DE DINERO-DELITO AUTONOMO-SISTEMA FINANCIERO-COMPETENCIA FEDERAL[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-brulc-adrian-francisco-otros-incidente-incompetencia-fa22000049-2022-06-07/123456789-940-0002-2ots-eupmocsollaf</link>
@@ -102,6 +96,12 @@
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-actora-causa-dnm-recurso-directo-dnm-fa22000070-2022-09-06/123456789-070-0002-2ots-eupmocsollaf</link>
       <description>[[p]]La sentencia que confirmó la expulsión de la migrante dispuesta por la Dirección Nacional de Migraciones, con prohibición de reingreso permanente en el territorio nacional debe ser revocada, si de la causa se desprende que la actora y sus hijos menores de edad se encuentran en una situación de extrema vulnerabilidad y la medida de expulsión ordenada importa para estos últimos un riesgo cierto de desamparo.[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-actora-causa-dnm-recurso-directo-dnm-fa22000070-2022-09-06/123456789-070-0002-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]MEDICINA PREPAGA-ENFERMEDAD PREEXISTENTE-AFILIACION A OBRAS SOCIALES-DECLARACION JURADA-RESCISION DEL CONTRATO[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-br-swiss-medical-sa-medicina-privada-amparo-ley-16986-fa22000073-2022-09-20/123456789-370-0002-2ots-eupmocsollaf</link>
+      <description>[[p]]Es improcedente ordenar a la empresa de medicina prepaga que mantenga la afiliación del actor percibiendo valores diferenciados a pesar del ocultamiento premeditado de aquél de su patología de cadera, pues el marco regulatorio de la medicina prepaga ha previsto la situación planteada asignándole una clara consecuencia, como es la rescisión del contrato por iniciativa de la empresa prestadora cuando no haya mediado buena fe en el usuario (arts. [[r uuid:CT001]]9, ley 26.682[[/r uuid:CT001]] y [[r uuid:CT002]]9, decreto reglamentario 1993/2011[[/r uuid:CT002]]); es decir que para la procedencia de la rescisión por parte de la empresa de medicina prepaga, no basta verificar la simple omisión de información, sino que se exige que el usuario, obrando sin la buena fe requerida, haya falseado la declaración. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-br-swiss-medical-sa-medicina-privada-amparo-ley-16986-fa22000073-2022-09-20/123456789-370-0002-2ots-eupmocsollaf</guid>
     </item>
   </channel>
 </rss>
