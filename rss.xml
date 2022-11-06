@@ -6,7 +6,7 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Nov 2022 01:58:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Nov 2022 02:01:41 +0000</lastBuildDate>
     <item>
       <title>[[p]]COMERCIALIZACION ILEGAL DE ESTUPEFACIENTES-COMPETENCIA FEDERAL[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-canal-cintia-yanina-otros-incidente-incompetencia-fa22000059-2022-07-12/123456789-950-0002-2ots-eupmocsollaf</link>
@@ -14,16 +14,16 @@
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-canal-cintia-yanina-otros-incidente-incompetencia-fa22000059-2022-07-12/123456789-950-0002-2ots-eupmocsollaf</guid>
     </item>
     <item>
-      <title>[[p]]DOBLE INSTANCIA-RECURSO DE CASACION-SENTENCIA ARBITRARIA-FUNDAMENTACION DEL RECURSO-APARTAMIENTO DE LAS CONSTANCIAS DE LA CAUSA-PRINCIPIO DE INOCENCIA-DEFENSA EN JUICIO-DEBIDO PROCESO[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-defensa-causa-arancibia-carlos-ignacio-otro-incidente-recurso-extraordinario-fa22000061-2022-08-02/123456789-160-0002-2ots-eupmocsollaf</link>
-      <description>[[p]]La denegatoria del a quo al pedido de reconducir el recurso extraordinario como recurso de casación por no presentar ninguna crítica sustantiva concreta a la sentencia que reformó la calificación jurídica y atribuyó el homicidio agravado al imputado a título de partícipe necesario es arbitraria, pues se apartó de las constancias de la causa, con menoscabo del derecho a la revisión de la condena, en tanto en esa presentación la defensa había planteado que la decisión resultaba lesiva de los principios de inocencia, culpabilidad, igualdad, pro homine, ultima ratio y mínima intervención, y de los derechos de defensa y debido proceso, había cuestionado la valoración de la prueba que acreditó la participación en el hecho (reconocimiento fotográfico, testigo único, etc.) y había requerido la absolución por aplicación del principio in dubio pro reo, alegando en subsidio que la participación de aquél había sido secundaria. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-defensa-causa-arancibia-carlos-ignacio-otro-incidente-recurso-extraordinario-fa22000061-2022-08-02/123456789-160-0002-2ots-eupmocsollaf</guid>
-    </item>
-    <item>
       <title>[[p]]RECURSO EXTRAORDINARIO-INADMISIBILIDAD DEL RECURSO-CONTRATO DE CONCESION ADMINISTRATIVA-INCUMPLIMIENTO DEL CONTRATO[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-parte-demandada-causa-en-emge-cencosud-sa-varios-fa22000060-2022-08-02/123456789-060-0002-2ots-eupmocsollaf</link>
       <description>[[p]]Es inadmisible el recurso extraordinario interpuesto contra la sentencia que condenó a la concesionaria de un predio a que diera satisfacción al compromiso asumido en el contrato por el cual debía reciclar el Gran Pabellón Central de la Exposición Internacional Ferroviaria y de Transporte que se hallaba en dicho predio, pues el apelante no rebatió fundadamente las razones fácticas y de derecho no federal en las que el tribunal sustentó lo decidido.[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-parte-demandada-causa-en-emge-cencosud-sa-varios-fa22000060-2022-08-02/123456789-060-0002-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]DOBLE INSTANCIA-RECURSO DE CASACION-SENTENCIA ARBITRARIA-FUNDAMENTACION DEL RECURSO-APARTAMIENTO DE LAS CONSTANCIAS DE LA CAUSA-PRINCIPIO DE INOCENCIA-DEFENSA EN JUICIO-DEBIDO PROCESO[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-defensa-causa-arancibia-carlos-ignacio-otro-incidente-recurso-extraordinario-fa22000061-2022-08-02/123456789-160-0002-2ots-eupmocsollaf</link>
+      <description>[[p]]La denegatoria del a quo al pedido de reconducir el recurso extraordinario como recurso de casación por no presentar ninguna crítica sustantiva concreta a la sentencia que reformó la calificación jurídica y atribuyó el homicidio agravado al imputado a título de partícipe necesario es arbitraria, pues se apartó de las constancias de la causa, con menoscabo del derecho a la revisión de la condena, en tanto en esa presentación la defensa había planteado que la decisión resultaba lesiva de los principios de inocencia, culpabilidad, igualdad, pro homine, ultima ratio y mínima intervención, y de los derechos de defensa y debido proceso, había cuestionado la valoración de la prueba que acreditó la participación en el hecho (reconocimiento fotográfico, testigo único, etc.) y había requerido la absolución por aplicación del principio in dubio pro reo, alegando en subsidio que la participación de aquél había sido secundaria. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-defensa-causa-arancibia-carlos-ignacio-otro-incidente-recurso-extraordinario-fa22000061-2022-08-02/123456789-160-0002-2ots-eupmocsollaf</guid>
     </item>
     <item>
       <title>[[p]]PRISION PERPETUA-MENORES DE EDAD-SENTENCIA CONDENATORIA-CUESTION FEDERAL-RECURSO DE REVISION PENAL-INADMISIBILIDAD DEL RECURSO-SENTENCIA ARBITRARIA-CORTE INTERAMERICANA DE DERECHOS HUMANOS-CONVENCION AMERICANA SOBRE DERECHOS HUMANOS[[/p]]</title>
