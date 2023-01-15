@@ -6,7 +6,7 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Jan 2023 01:22:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jan 2023 01:37:42 +0000</lastBuildDate>
     <item>
       <title>[[p]]RECURSO EXTRAORDINARIO-FALTA DE TRASLADO-DENEGATORIA DEL RECURSO-NULIDAD PROCESAL[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-sociar-sa-causa-sociar-sa-recurso-queja-fa22000076-2022-09-27/123456789-670-0002-2ots-eupmocsollaf</link>
@@ -62,16 +62,16 @@
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-mendoza-romero-miguel-angel-extradicion-fa22000093-2022-11-15/123456789-390-0002-2ots-eupmocsollaf</guid>
     </item>
     <item>
-      <title>[[p]]LEGITIMACION PROCESAL-FALTA DE LEGITIMACION-ACCION DE INCONSTITUCIONALIDAD-INTERES CONCRETO-BANCO DE DATOS GENETICOS[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-chorobik-mariani-maria-isabel-otros-ministerio-ciencia-tecnologia-innovacion-productiva-proceso-conocimiento-fa22000096-2022-11-24/123456789-690-0002-2ots-eupmocsollaf</link>
-      <description>[[p]]La recurrente carece de legitimación para esgrimir la tacha de inconstitucionalidad de los arts. [[r uuid:CT001]]2°[[/r uuid:CT001]] y [[r uuid:CT002]]5°[[/r uuid:CT002]] de la ley 26.548 y de su decreto reglamentario, pues no ha demostrado tener un interés directo en el dictado de un pronunciamiento judicial, que remueva el obstáculo al que atribuye la lesión de los derechos invocados, en tanto no expuso ni acreditó de qué modo el límite temporal fijado por las normas cuestionadas le ocasiona un perjuicio en la esfera de sus derechos de forma suficientemente directa o substancial, es más, los hechos invocados en el escrito de inicio para fundar su legitimación se habrían producido con anterioridad al 10 de diciembre de 1983, por lo que estarían incluidos en las previsiones de la ley 26.548 y, por ende, no excluidos del ámbito de actuación del Banco Nacional de Datos Genéticos, según las previsiones de la ley. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-chorobik-mariani-maria-isabel-otros-ministerio-ciencia-tecnologia-innovacion-productiva-proceso-conocimiento-fa22000096-2022-11-24/123456789-690-0002-2ots-eupmocsollaf</guid>
-    </item>
-    <item>
       <title>[[p]]DEPOSITO PREVIO-RECURSO DE QUEJA (PROCESAL)-ACCION DE INCONSTITUCIONALIDAD[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-demandado-causa-banco-santander-rio-bassano-mario-marcelo-cobro-ejecutivo-fa22000095-2022-11-24/123456789-590-0002-2ots-eupmocsollaf</link>
       <description>[[p]]La exigencia del depósito previo establecido en el [[r uuid:CT001]]art. 286 del Código Procesal Civil y Comercial de la Nación[[/r uuid:CT001]], caracterizado por la Corte como requisito esencial para la procedencia del recurso de hecho, no contraría garantía constitucional alguna y solo cede respecto de quienes se encuentran exentos de pagar el sellado o tasa de justicia, según las disposiciones de las leyes nacionales respectivas, o hayan obtenido el beneficio de litigar sin gastos en forma definitiva.[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-demandado-causa-banco-santander-rio-bassano-mario-marcelo-cobro-ejecutivo-fa22000095-2022-11-24/123456789-590-0002-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]LEGITIMACION PROCESAL-FALTA DE LEGITIMACION-ACCION DE INCONSTITUCIONALIDAD-INTERES CONCRETO-BANCO DE DATOS GENETICOS[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-chorobik-mariani-maria-isabel-otros-ministerio-ciencia-tecnologia-innovacion-productiva-proceso-conocimiento-fa22000096-2022-11-24/123456789-690-0002-2ots-eupmocsollaf</link>
+      <description>[[p]]La recurrente carece de legitimación para esgrimir la tacha de inconstitucionalidad de los arts. [[r uuid:CT001]]2°[[/r uuid:CT001]] y [[r uuid:CT002]]5°[[/r uuid:CT002]] de la ley 26.548 y de su decreto reglamentario, pues no ha demostrado tener un interés directo en el dictado de un pronunciamiento judicial, que remueva el obstáculo al que atribuye la lesión de los derechos invocados, en tanto no expuso ni acreditó de qué modo el límite temporal fijado por las normas cuestionadas le ocasiona un perjuicio en la esfera de sus derechos de forma suficientemente directa o substancial, es más, los hechos invocados en el escrito de inicio para fundar su legitimación se habrían producido con anterioridad al 10 de diciembre de 1983, por lo que estarían incluidos en las previsiones de la ley 26.548 y, por ende, no excluidos del ámbito de actuación del Banco Nacional de Datos Genéticos, según las previsiones de la ley. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-chorobik-mariani-maria-isabel-otros-ministerio-ciencia-tecnologia-innovacion-productiva-proceso-conocimiento-fa22000096-2022-11-24/123456789-690-0002-2ots-eupmocsollaf</guid>
     </item>
     <item>
       <title>[[p]]CUESTIONES DE COMPETENCIA-COMPETENCIA CIVIL Y COMERCIAL FEDERAL-DAÑOS Y PERJUICIOS-OBRAS PUBLICAS-FRAUDE A LA ADMINISTRACION PUBLICA-ACCION DE DERECHO COMUN[[/p]]</title>
