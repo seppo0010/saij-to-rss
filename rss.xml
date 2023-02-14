@@ -6,13 +6,7 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Feb 2023 01:39:57 +0000</lastBuildDate>
-    <item>
-      <title>[[p]]MEDIDAS CAUTELARES-IMPUESTO SOBRE LOS INGRESOS BRUTOS-ACCION DE INCONSTITUCIONALIDAD-COMERCIO INTERJURISDICCIONAL[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-loma-negra-compania-industrial-argentina-sociedad-anonima-misiones-provincia-accion-declarativa-certeza-fa22000077-2022-09-27/123456789-770-0002-2ots-eupmocsollaf</link>
-      <description>[[p]]Es procedente la medida cautelar tendiente a que se ordene a la Provincia de Misiones que, hasta tanto recaiga sentencia definitiva, se abstenga de exigir a la empresa actora el pago a cuenta del anticipo del impuesto sobre los ingresos brutos o el cumplimiento de cualquier otro deber formal o material vinculado al decreto provincial 2913/07 y de la resolución general 56/2007 de la Dirección General de Rentas; pues de los antecedentes aportados surge que el procedimiento de control implementado por la provincia resultaría prima facie contrario a disposiciones de carácter federal, en tanto condiciona el ingreso de mercaderías provenientes de extraña jurisdicción al pago a cuenta del anticipo del impuesto sobre los ingresos brutos.[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-loma-negra-compania-industrial-argentina-sociedad-anonima-misiones-provincia-accion-declarativa-certeza-fa22000077-2022-09-27/123456789-770-0002-2ots-eupmocsollaf</guid>
-    </item>
+    <lastBuildDate>Tue, 14 Feb 2023 01:39:56 +0000</lastBuildDate>
     <item>
       <title>[[p]]DELITOS DE LESA HUMANIDAD-SENTENCIA ABSOLUTORIA-PRIVACION ILEGAL DE LA LIBERTAD CALIFICADA-TORMENTOS-SUSTRACCION DE MENORES-SENTENCIA ARBITRARIA-APRECIACION DE LA PRUEBA-APARTAMIENTO DE CONSTANCIAS DE LA CAUSA[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-fiscal-general-ante-camara-federal-casacion-penal-causa-bignone-reynaldo-benito-antonio-otros-sustraccion-menores-10-anos-art-146-texto-original-cp-ley-11179-fa22000079-2022-10-18/123456789-970-0002-2ots-eupmocsollaf</link>
@@ -108,6 +102,12 @@
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires--ioma-accion-amparo-fa22000103-2022-12-21/123456789-301-0002-2ots-eupmocsollaf</link>
       <description>[[p]]Es competente la justicia ordinaria provincial para entender en la acción de amparo iniciada por un afiliado contra el Instituto de Obra Médico Asistencial (IOMA) con el objeto de obtener la cobertura integral del tratamiento que le fue indicado, pues se advierte que la causa no versa sobre un reclamo de naturaleza federal en razón de las personas, en tanto se trata de un litigio entablado por una persona que posee domicilio real en la Provincia de Buenos Aires contra su obra social provincial que es una entidad autárquica local y que no se encuentra incluida dentro del Sistema Nacional de Seguro de Salud previsto por la [[r uuid:CT001]]ley 23.661[[/r uuid:CT001]], ni inscripta en el Registro Nacional de Obras Sociales creado por la [[r uuid:CT002]]ley 23.660[[/r uuid:CT002]][[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires--ioma-accion-amparo-fa22000103-2022-12-21/123456789-301-0002-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]DESPIDO-ABANDONO DE TRABAJO-SENTENCIA ARBITRARIA-EXCESOS U OMISIONES EN EL PRONUNCIAMIENTO-ESTABILIDAD DEL EMPLEADO PUBLICO-SUMARIO ADMINISTRATIVO[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-actor-causa-fino-daniel-alberto-administracion-nacional-seguridad-social-anses-accion-amparo-fa23000001-2023-02-09/123456789-100-0003-2ots-eupmocsollaf</link>
+      <description>[[p]]Es arbitraria la sentencia que consideró que el actor que se desempeñaba en el ANSES no gozaba de la estabilidad propia del empleado público y que, por ende, resultaba procedente la extinción del vínculo laboral por la causal de abandono de trabajo, pues omitió analizar si las prescripciones que implementaron en el ámbito del organismo demandado el Reglamento de Investigaciones Administrativas aprobado por el [[r uuid:CT001]]decreto 467/1999[[/r uuid:CT001]] del Poder Ejecutivo Nacional -el cual requería la instrucción de un sumario administrativo para este tipo de sanciones-, resultaban aplicables al caso. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-actor-causa-fino-daniel-alberto-administracion-nacional-seguridad-social-anses-accion-amparo-fa23000001-2023-02-09/123456789-100-0003-2ots-eupmocsollaf</guid>
     </item>
   </channel>
 </rss>
