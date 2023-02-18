@@ -6,7 +6,7 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Feb 2023 01:41:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Feb 2023 01:36:24 +0000</lastBuildDate>
     <item>
       <title>[[p]]DELITOS DE LESA HUMANIDAD-SENTENCIA ABSOLUTORIA-PRIVACION ILEGAL DE LA LIBERTAD CALIFICADA-TORMENTOS-SUSTRACCION DE MENORES-SENTENCIA ARBITRARIA-APRECIACION DE LA PRUEBA-APARTAMIENTO DE CONSTANCIAS DE LA CAUSA[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-fiscal-general-ante-camara-federal-casacion-penal-causa-bignone-reynaldo-benito-antonio-otros-sustraccion-menores-10-anos-art-146-texto-original-cp-ley-11179-fa22000079-2022-10-18/123456789-970-0002-2ots-eupmocsollaf</link>
@@ -108,6 +108,12 @@
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-actor-causa-fino-daniel-alberto-administracion-nacional-seguridad-social-anses-accion-amparo-fa23000001-2023-02-09/123456789-100-0003-2ots-eupmocsollaf</link>
       <description>[[p]]Es arbitraria la sentencia que consideró que el actor que se desempeñaba en el ANSES no gozaba de la estabilidad propia del empleado público y que, por ende, resultaba procedente la extinción del vínculo laboral por la causal de abandono de trabajo, pues omitió analizar si las prescripciones que implementaron en el ámbito del organismo demandado el Reglamento de Investigaciones Administrativas aprobado por el [[r uuid:CT001]]decreto 467/1999[[/r uuid:CT001]] del Poder Ejecutivo Nacional -el cual requería la instrucción de un sumario administrativo para este tipo de sanciones-, resultaban aplicables al caso. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-actor-causa-fino-daniel-alberto-administracion-nacional-seguridad-social-anses-accion-amparo-fa23000001-2023-02-09/123456789-100-0003-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]MEDIO AMBIENTE-SERVICIO DE AGUA POTABLE-EMERGENCIA HIDRICA-EMERGENCIA AMBIENTAL-COMPETENCIA DE LA CORTE SUPREMA-COMPETENCIA ORIGINARIA-CUESTION DE DERECHO PUBLICO LOCAL-COMPETENCIA PROVINCIAL[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-lopez-maria-teresa-santa-cruz-provincia-otros-estado-nacional-amparo-ambiental-fa23000002-2023-02-16/123456789-200-0003-2ots-eupmocsollaf</link>
+      <description>[[p]]Es ajena a la competencia originaria la acción de amparo colectivo deducida contra el Estado Nacional, dos provincias, un municipio y sociedades comerciales que realizan explotación petrolera por la emergencia hídrica y ambiental que impide a la población donde reside la actora el regular acceso al agua potable y corriente, pues varias de las pretensiones se encuentran regidas sustancialmente por el derecho público local, por lo que deben sustanciarse ante los jueces locales de la provincia demandada, de conformidad con los artículos [[r uuid:CT001]]41, párrafo 3°[[/r uuid:CT001]] y [[r uuid:CT002]]121[[/r uuid:CT002]] y siguientes de la Constitución Nacional.[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-lopez-maria-teresa-santa-cruz-provincia-otros-estado-nacional-amparo-ambiental-fa23000002-2023-02-16/123456789-200-0003-2ots-eupmocsollaf</guid>
     </item>
   </channel>
 </rss>
