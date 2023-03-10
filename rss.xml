@@ -6,13 +6,7 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Mar 2023 01:43:04 +0000</lastBuildDate>
-    <item>
-      <title>[[p]]CONTRATO DE TRABAJO-HORAS EXTRA-JORNADA DE TRABAJO-JORNADA MAXIMA-SENTENCIA ARBITRARIA-FUNDAMENTACION DE SENTENCIAS-DEFECTOS EN LA FUNDAMENTACION NORMATIVA[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-actora-causa-cardone-lorena-angeles-be-enterprises-sa-despido-fa22000083-2022-11-01/123456789-380-0002-2ots-eupmocsollaf</link>
-      <description>[[p]]Es arbitraria la sentencia que rechazó el reclamo de horas extraordinarias, pues la interpretación de la cámara, en cuanto concluyó que la jornada de la actora se encontraba dentro de los límites legales por no superar las 48 horas semanales, se apartó de la solución prevista en la normativa nacional -[[r uuid:CT001]]Ley 11.544[[/r uuid:CT001]] y su decreto reglamentario- e incurrió en el absurdo de eliminar en forma tácita el límite diario, con las graves consecuencias que ello podría provocar en la economía y salud de los trabajadores, en tanto no se encontraba cuestionado que la recurrente cumplía una jornada de 12 horas los días sábado durante toda la relación laboral, en claro exceso del límite de jornada diario. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-actora-causa-cardone-lorena-angeles-be-enterprises-sa-despido-fa22000083-2022-11-01/123456789-380-0002-2ots-eupmocsollaf</guid>
-    </item>
+    <lastBuildDate>Fri, 10 Mar 2023 01:43:15 +0000</lastBuildDate>
     <item>
       <title>[[p]]COMUNICACION SATELITAL-TELEVISION-INTERNET-CONFLICTOS DE COMPETENCIA-COMPETENCIA FEDERAL[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-directv-argentina-sa-otros-incidente-incompetencia-fa22000084-2022-11-01/123456789-480-0002-2ots-eupmocsollaf</link>
@@ -108,6 +102,12 @@
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-defensa-causa-recurso-extraordinario-inaplicabilidad-ley-fa23000005-2023-02-23/123456789-500-0003-2ots-eupmocsollaf</link>
       <description>[[p]]Cabe dejar sin efecto la decisión que rechazó el recurso deducido contra la sentencia que condenó a la imputada a la pena prisión por ser autora del delito de homicidio, toda vez que el tribunal de casación al desatender aspectos relevantes, que habían sido sometidos a su consideración, no sólo incurrió en arbitrariedad sino que incumplió al mismo tiempo el estándar de revisión amplia y exhaustiva del fallo condenatorio establecido por "Casal" (Fallos: 328:3399), con grave menoscabo de las normas federales involucradas en el caso ([[r uuid:CT001]]Convención Belém do Pará, su ley reglamentaria 26.485[[/r uuid:CT001]] y [[r uuid:CT002]]Convención sobre los Derechos de las Personas con Discapacidad[[/r uuid:CT002]]), como así también que, pese a que esas deficiencias fueron señaladas por la defensa, el a quo convalidó sin fundamentación idónea aquella decisión, lo que descalifica a su pronunciamiento como acto jurisdiccional válido desde la perspectiva de la doctrina de la arbitrariedad, pero también del [[r uuid:CT003]]artículo 8.2.h de la Convención Americana sobre Derechos Humanos[[/r uuid:CT003]] y [[r uuid:CT004]]14.5 del Pacto Internacional de Derechos Civiles y Políticos[[/r uuid:CT004]], y las normas federales mencionadas. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-defensa-causa-recurso-extraordinario-inaplicabilidad-ley-fa23000005-2023-02-23/123456789-500-0003-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]MULTA TRIBUTARIA-PRESCRIPCION-EXTINCION DE LA ACCION PENAL-APLICACION DE LA LEY PENAL[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-actora-causa-alpha-shipping-sa-provincia-tdf-ias-contencioso-administrativo-medida-cautelar-fa23000007-2023-03-07/123456789-700-0003-2ots-eupmocsollaf</link>
+      <description>[[p]]Corresponde aplicar a la multa establecida por la dirección general de rentas provincial por la omisión en el pago del impuesto a los ingresos brutos, el plazo establecido en el [[r uuid:CT001]]inc. 4° del art. 65 del Código Penal[[/r uuid:CT001]], pues es a ese cuerpo normativo a quien le incumbe legislar sobre la extinción de acciones y penas, sin perjuicio del derecho de las provincias al establecimiento de particulares infracciones y penas en asuntos de interés puramente local.[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-actora-causa-alpha-shipping-sa-provincia-tdf-ias-contencioso-administrativo-medida-cautelar-fa23000007-2023-03-07/123456789-700-0003-2ots-eupmocsollaf</guid>
     </item>
   </channel>
 </rss>
