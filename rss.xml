@@ -6,7 +6,7 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Mar 2023 01:23:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Apr 2023 01:22:48 +0000</lastBuildDate>
     <item>
       <title>[[p]]EXTRADICION-NULIDAD DE SENTENCIA-INTERES SUPERIOR DEL NIÑO[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-mendoza-romero-miguel-angel-extradicion-fa22000093-2022-11-15/123456789-390-0002-2ots-eupmocsollaf</link>
@@ -32,16 +32,16 @@
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-direccion-nacional-vialidad-fernandez-cristina-elizabet-otros-responsabilidad-danos-fa22000097-2022-12-06/123456789-790-0002-2ots-eupmocsollaf</guid>
     </item>
     <item>
-      <title>[[p]]ASOCIACION ILICITA-ADMINISTRACION FRAUDULENTA-EXTORSION-APRECIACION DE LA PRUEBA-CUESTIONES DE HECHO Y PRUEBA-CUESTION DE DERECHO PUBLICO LOCAL-CUESTION DE DERECHO COMUN-RECURSO EXTRAORDINARIO-DESESTIMACION DEL RECURSO[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-milagro-amalia-angela-sala-causa-sala-milagro-amalia-angela-otros-pssaa-asociacion-ilicita-fraude-administracion-publica-extorsion-fa22000099-2022-12-15/123456789-990-0002-2ots-eupmocsollaf</link>
-      <description>[[p]]Cabe desestimar el recurso extraordinario interpuesto contra la sentencia que condenó a la imputada como autora del delito de asociación ilícita, en carácter de jefa, en concurso real con los delitos de fraude a la administración pública y extorsión, en calidad de coautora, pues los agravios de la recurrente en orden al modo en que se valoró la prueba rendida en el debate y a la extemporaneidad en la lectura de los fundamentos de la sentencia de condena remiten a cuestiones de hecho, prueba y derecho común u objetan al modo en que se aplicó el ordenamiento procesal provincial, materias cuyo análisis está restringido, por regla, a los tribunales locales, sin que la parte haya demostrado la concurrencia de alguno de los supuestos que permiten hacer excepción a dicho principio general.[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-milagro-amalia-angela-sala-causa-sala-milagro-amalia-angela-otros-pssaa-asociacion-ilicita-fraude-administracion-publica-extorsion-fa22000099-2022-12-15/123456789-990-0002-2ots-eupmocsollaf</guid>
-    </item>
-    <item>
       <title>[[p]]SENTENCIA ARBITRARIA-APRECIACION DE LA PRUEBA-SOBRESEIMIENTO-ABUSO SEXUAL DE MENORES-VIOLENCIA DE GENERO[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-procurador-general-suprema-corte-justicia-provincia-buenos-aires-causa-recurso-extraordinario-inaplicabilidad-ley-fa22000098-2022-12-15/123456789-890-0002-2ots-eupmocsollaf</link>
       <description>[[p]]Es arbitraria la sentencia que sobreseyó al imputado en orden al delito de abuso sexual agravado por haber sido cometido por un ascendiente y contra una menor de dieciocho años de edad, pues se omitieron valorar los informes que corroboraban los dichos de la menor y se ponderó el pedido de archivo de la actuaciones de la madre abstraído del contexto de violencia de género en la cual se encontraba, imprescindible para analizar su real alcance. -Del dictamen de la Procuración General al que la Corte remite-. -El juez Rosenkrantz, en disidencia, consideró inadmisible el recurso extraordinario ([[r uuid:CT001]]art. 280 CPCCN[[/r uuid:CT001]])-[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-procurador-general-suprema-corte-justicia-provincia-buenos-aires-causa-recurso-extraordinario-inaplicabilidad-ley-fa22000098-2022-12-15/123456789-890-0002-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]ASOCIACION ILICITA-ADMINISTRACION FRAUDULENTA-EXTORSION-APRECIACION DE LA PRUEBA-CUESTIONES DE HECHO Y PRUEBA-CUESTION DE DERECHO PUBLICO LOCAL-CUESTION DE DERECHO COMUN-RECURSO EXTRAORDINARIO-DESESTIMACION DEL RECURSO[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-milagro-amalia-angela-sala-causa-sala-milagro-amalia-angela-otros-pssaa-asociacion-ilicita-fraude-administracion-publica-extorsion-fa22000099-2022-12-15/123456789-990-0002-2ots-eupmocsollaf</link>
+      <description>[[p]]Cabe desestimar el recurso extraordinario interpuesto contra la sentencia que condenó a la imputada como autora del delito de asociación ilícita, en carácter de jefa, en concurso real con los delitos de fraude a la administración pública y extorsión, en calidad de coautora, pues los agravios de la recurrente en orden al modo en que se valoró la prueba rendida en el debate y a la extemporaneidad en la lectura de los fundamentos de la sentencia de condena remiten a cuestiones de hecho, prueba y derecho común u objetan al modo en que se aplicó el ordenamiento procesal provincial, materias cuyo análisis está restringido, por regla, a los tribunales locales, sin que la parte haya demostrado la concurrencia de alguno de los supuestos que permiten hacer excepción a dicho principio general.[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-milagro-amalia-angela-sala-causa-sala-milagro-amalia-angela-otros-pssaa-asociacion-ilicita-fraude-administracion-publica-extorsion-fa22000099-2022-12-15/123456789-990-0002-2ots-eupmocsollaf</guid>
     </item>
     <item>
       <title>[[p]]INMUNIDAD DE JURISDICCION-DEMANDA CONTRA ESTADO EXTRANJERO-DAÑOS Y PERJUICIOS-CORONAVIRUS-RESPONSABILIDAD DEL ESTADO POR ACTOS LICITOS-COMPETENCIA FEDERAL-INCOMPETENCIA[[/p]]</title>
