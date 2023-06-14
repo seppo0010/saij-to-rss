@@ -6,13 +6,7 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jun 2023 01:38:38 +0000</lastBuildDate>
-    <item>
-      <title>[[p]]HABEAS CORPUS-RECHAZO DE LA DEMANDA-ACCION PENAL-FUNDAMENTACION DE SENTENCIAS[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-defensa-causa-sanchez-norma-beatriz-otro-habeas-corpus-fa23000017-2023-03-21/123456789-710-0003-2ots-eupmocsollaf</link>
-      <description>[[p]]El rechazo de la acción de habeas corpus no resulta arbitrario toda vez que la decisión no supone una privación arbitraria al recurso rápido y efectivo que prevén el [[r uuid:CT001]]artículo 43 de la Constitución Nacional[[/r uuid:CT001]] y los instrumentos internacionales concordantes, en tanto ese pronunciamiento no fue un rechazo liminar y dogmático, ni se limitó a verificar la existencia formal de otros procedimientos con el mismo objeto, sino que fue sustentado en el examen concreto de lo actuado en la causa penal y la consecuente valoración fundada acerca de si las diligencias llevadas adelante por las autoridades judiciales, con la debida intervención de los representantes de la víctima, más allá de no haber alcanzado el resultado esperado, constituyeron un esfuerzo serio e idóneo para satisfacer la mencionada garantía. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-defensa-causa-sanchez-norma-beatriz-otro-habeas-corpus-fa23000017-2023-03-21/123456789-710-0003-2ots-eupmocsollaf</guid>
-    </item>
+    <lastBuildDate>Wed, 14 Jun 2023 01:37:35 +0000</lastBuildDate>
     <item>
       <title>[[p]]DERECHO A LA SALUD-CONTROL DE PRODUCTOS ALIMENTICIOS-SERVICIO NACIONAL DE SANIDAD ANIMAL-PLAGUICIDAS-POLITICA SANITARIA[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-zarate-enrique-augusto-senasa-amparo-ambiental-fa23000014-2023-03-21/123456789-410-0003-2ots-eupmocsollaf</link>
@@ -132,6 +126,12 @@
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-julian-daniel-rafael-hidrotec-srl-ordinario-despido-fa23000036-2023-06-06/123456789-630-0003-2ots-eupmocsollaf</link>
       <description>[[p]]Frente a una demanda por despido injustificado y toda vez que no se controvierte que el contrato de trabajo se celebró y ejecutó en la Provincia de Salta, ni que la empleadora tiene su domicilio allí, corresponde, a los efectos de dirimir la contienda, aplicar la regla de competencia territorial establecida en el [[r uuid:CT001]]artículo 24 de la Ley n° 18.345[[/r uuid:CT001]] de Organización y Procedimiento de la Justicia Nacional del Trabajo y en consecuencia, resultará competente el tribunal del lugar del trabajo, el del lugar de celebración del contrato o el del domicilio del demandado. -Del dictamen de la Procuración General al que la Corre remite.[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-julian-daniel-rafael-hidrotec-srl-ordinario-despido-fa23000036-2023-06-06/123456789-630-0003-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]CUESTIONES DE COMPETENCIA-COMPETENCIA FEDERAL-DAÑOS Y PERJUICIOS-SERVICIO TELEFONICO-PROVEEDOR DE INTERNET-INCUMPLIMIENTO DEL CONTRATO-COMPETENCIA POR LA MATERIA[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-gorenstein-marcelo-ricardo-telecentro-sa-danos-perjuicios-fa23000037-2023-06-06/123456789-730-0003-2ots-eupmocsollaf</link>
+      <description>[[p]]Es competente la justicia federal para entender en la acción de daños y perjuicios promovida contra una empresa de servicios de telefonía, cable e internet por los incumplimientos contractuales en los que incurrió en el acceso al servicio básico telefónico, pues la pretensión principal se vincula con el ejercicio del derecho de acceso al servicio básico telefónico, lo que exige dilucidar el alcance de normas federales que lo regulan ([[r uuid:CT001]]ley 19.798[[/r uuid:CT001]] -Ley Nacional de Telecomunicaciones-; [[r uuid:CT002]]ley 27.078[[/r uuid:CT002]] -Ley de Tecnologías de la Información- y Reglamento General de Clientes del Servicio Básico Telefónico), es decir una cuestión reservada a la jurisdicción federal en razón de la materia, sin perjuicio de la aplicación de normas de derecho común respecto de la eventual responsabilidad de la empresa demandada por los daños y perjuicios alegados y la multa civil reclamada ([[r uuid:CT003]]ley 24.240[[/r uuid:CT003]] -Defensa del Consumidor-, [[r uuid:CT004]]Código Civil y Comercial de la Nación[[/r uuid:CT004]]).[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-gorenstein-marcelo-ricardo-telecentro-sa-danos-perjuicios-fa23000037-2023-06-06/123456789-730-0003-2ots-eupmocsollaf</guid>
     </item>
   </channel>
 </rss>
