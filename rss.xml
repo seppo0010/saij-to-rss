@@ -6,7 +6,7 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Jul 2023 01:54:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2023 01:59:18 +0000</lastBuildDate>
     <item>
       <title>[[p]]EMPLEADOS PUBLICOS-PERSONAL DE PLANTA PERMANENTE-MINISTERIO DE JUSTICIA-ADICIONALES DE REMUNERACION-CARACTER REMUNERATORIO-ENTES COOPERADORES[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-cello-maria-monica-min-seguridad-disp-268-09-212-10-proceso-conocimiento-fa23000022-2023-04-25/123456789-220-0003-2ots-eupmocsollaf</link>
@@ -26,16 +26,16 @@
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-evolucion-liberal-otro-san-juan-provincia-accion-declarativa-certeza-fa23000028-2023-05-09/123456789-820-0003-2ots-eupmocsollaf</guid>
     </item>
     <item>
-      <title>[[p]]EXCUSACION-MINISTROS DE LA CORTE SUPREMA-INADMISIBILIDAD DE LA ACCION[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-evolucion-liberal-otro-san-juan-provincia-amparo-fa23000032-2023-05-16/123456789-230-0003-2ots-eupmocsollaf</link>
-      <description>[[p]]El pedido para que se excusen los integrantes de la Corte resulta inadmisible porque la facultad de excusación de los jueces del Tribunal, mediando causa legal de recusación o no, es ajena a la actividad procesal de las partes.[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-evolucion-liberal-otro-san-juan-provincia-amparo-fa23000032-2023-05-16/123456789-230-0003-2ots-eupmocsollaf</guid>
-    </item>
-    <item>
       <title>[[p]]DAÑOS Y PERJUICIOS-INJURIAS COMETIDAS POR MEDIO DE LA PRENSA-LIBERTAD DE PRENSA-LIBERTAD DE EXPRESION-PUBLICACION PERIODISTICA[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-brieger-pedro-ruben-widder-sergio-daniel-otro-danos-perjuicios-fa23000031-2023-05-16/123456789-130-0003-2ots-eupmocsollaf</link>
       <description>[[p]]Corresponde rechazar la demanda entablada a fin de obtener la reparación de los daños derivados de la publicación de expresiones consideradas injuriantes en el portal de un diario, toda vez que dichas expresiones se refieren a un asunto de interés público y a una persona que puede caracterizarse como figura pública -periodista especializado en política internacional-, esto es, que está íntimamente involucrada en la resolución de importantes cuestiones públicas o que, por razón de su fama, tiene gran influencia en áreas que preocupan, importan o interesan a toda la sociedad. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-brieger-pedro-ruben-widder-sergio-daniel-otro-danos-perjuicios-fa23000031-2023-05-16/123456789-130-0003-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]EXCUSACION-MINISTROS DE LA CORTE SUPREMA-INADMISIBILIDAD DE LA ACCION[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-evolucion-liberal-otro-san-juan-provincia-amparo-fa23000032-2023-05-16/123456789-230-0003-2ots-eupmocsollaf</link>
+      <description>[[p]]El pedido para que se excusen los integrantes de la Corte resulta inadmisible porque la facultad de excusación de los jueces del Tribunal, mediando causa legal de recusación o no, es ajena a la actividad procesal de las partes.[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-evolucion-liberal-otro-san-juan-provincia-amparo-fa23000032-2023-05-16/123456789-230-0003-2ots-eupmocsollaf</guid>
     </item>
     <item>
       <title>[[p]]HOMICIDIO CULPOSO-SENTENCIA CONDENATORIA-MALA PRAXIS-MUERTE DEL RECIEN NACIDO-SENTENCIA ARBITRARIA-EXCESOS U OMISIONES EN EL PRONUNCIAMIENTO-DEFECTOS EN LA CONSIDERACION DE EXTREMOS CONDUCENTES[[/p]]</title>
@@ -68,12 +68,6 @@
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-asociart-sa-art-causa-alarcon-juan-esteban-goncalvez-nestor-abel-otro-accidente-accion-civil-fa23000039-2023-06-13/123456789-930-0003-2ots-eupmocsollaf</guid>
     </item>
     <item>
-      <title>[[p]]SENTENCIA ARBITRARIA-REFORMATIO IN PEJUS-EXCESOS U OMISONES EN EL PRONUNCIAMIENTO-COSTAS[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-morales-blanca-azucena-anses-impugnacion-acto-administrativo-fa23000043-2023-06-22/123456789-340-0003-2ots-eupmocsollaf</link>
-      <description>[[p]]Es arbitraria e incurre en un exceso de jurisdicción la sentencia de cámara que revisó de oficio las costas determinadas en primera instancia, pues con ello incurrió en una reformatio in peius al modificar la condena en un punto que se encontraba firme, y no mediaba agravio alguno referido a ello. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-morales-blanca-azucena-anses-impugnacion-acto-administrativo-fa23000043-2023-06-22/123456789-340-0003-2ots-eupmocsollaf</guid>
-    </item>
-    <item>
       <title>[[p]]DILIGENCIAS PRELIMINARES-NOTA PERIODISTICA-GRABACIONES-LIBROS-SENTENCIA ARBITRARIA-FALTA DE FUNDAMENTACION[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-demandada-causa-macri-mariano-odonnell-santiago-diligencias-preliminares-fa23000042-2023-06-22/123456789-240-0003-2ots-eupmocsollaf</link>
       <description>[[p]]Es arbitraria la decisión que admitió la medida preliminar consistente en ordenar al periodista demandado la entrega de una copia íntegra de las grabaciones de los encuentros que habrían mantenido con el actor y a partir de las cuales aquél redactó un libro, pues se apoya en una fundamentación aparente desde que carece de un análisis pormenorizado y razonado de las circunstancias concretas del caso y, en particular, de los requisitos exigibles para la procedencia de la referida medida, en tanto la sola afirmación de dar por cierto que se presenta en la causa una situación que amerita acudir al órgano jurisdiccional para procurar una información que los particulares no podrían proveerse por sí solos, sin un mayor desarrollo argumental respecto de la totalidad de los presupuestos de admisibilidad de la diligencia preliminar, en particular del requisito de la necesidad, no constituye un pronunciamiento que respete la exigencia de fundamentación.[[/p]]</description>
@@ -86,10 +80,16 @@
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-federacion-patronal-seguros-sa-causa-ortiz-marisa-liliana-garcia-nimo-cobas-cia-srl-accidente-ley-especial-fa23000041-2023-06-22/123456789-140-0003-2ots-eupmocsollaf</guid>
     </item>
     <item>
-      <title>[[p]]DERECHO A SER JUZGADO EN UN PLAZO RAZONABLE[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-sebastian-miguel-pantano-causa-marascalchi-muniz-marcos-leandro-otros-legajo-casacion-fa23000048-2023-07-04/123456789-840-0003-2ots-eupmocsollaf</link>
-      <description>[[p]]Resulta configurada la afectación al derecho a ser juzgado en un plazo razonable, pues si bien la imposibilidad material alegada de fijar audiencia de debate por el gran cúmulo de causas impediría afirmar que se verificó una falta de diligencia especialmente relevante por parte de la autoridad judicial encargada de la conducción del proceso, lo cierto es que la duración de la causa no puede ser atribuida al imputado ni a la complejidad del caso. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-sebastian-miguel-pantano-causa-marascalchi-muniz-marcos-leandro-otros-legajo-casacion-fa23000048-2023-07-04/123456789-840-0003-2ots-eupmocsollaf</guid>
+      <title>[[p]]SENTENCIA ARBITRARIA-REFORMATIO IN PEJUS-EXCESOS U OMISONES EN EL PRONUNCIAMIENTO-COSTAS[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-morales-blanca-azucena-anses-impugnacion-acto-administrativo-fa23000043-2023-06-22/123456789-340-0003-2ots-eupmocsollaf</link>
+      <description>[[p]]Es arbitraria e incurre en un exceso de jurisdicción la sentencia de cámara que revisó de oficio las costas determinadas en primera instancia, pues con ello incurrió en una reformatio in peius al modificar la condena en un punto que se encontraba firme, y no mediaba agravio alguno referido a ello. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-morales-blanca-azucena-anses-impugnacion-acto-administrativo-fa23000043-2023-06-22/123456789-340-0003-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]PRIVATIZACIONES-JUBILADOS-CONTRATO DE TRABAJO-CONVENIO COLECTIVO-REDUCCION DE TARIFAS-RESPONSABILIDAD SOLIDARIA-TRANSFERENCIA DEL ESTABLECIMIENTO[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-compania-transporte-energia-electrica-alta-tension-transener-sa-causa-oviedo-adolfo-catalino-agua-energia-electrica-sociedad-estado-otros-otros-procesos-laborales-fa23000046-2023-07-04/123456789-640-0003-2ots-eupmocsollaf</link>
+      <description>[[p]]Los actores, en su calidad de jubilados y/o pensionados de Agua y Energía Eléctrica S.E., tienen derecho a percibir el rubro "rebaja de tarifa" de luz y de gas previsto en el convenio colectivo de trabajo, pues la empresa demandada -continuadora de la empresa estatal privatizada- no puede deslindarse de la regla de solidaridad prevista en la ley de contrato de trabajo para las obligaciones de índole laboral que ampara a los trabajadores afectados por el proceso de privatización de empresas, aun cuando la relación laboral y la causa del crédito que se reclama sean anteriores a la privatización y los reclamantes no hayan sido transferidos, en tanto debe considerarse que hubo una transferencia de un establecimiento en los términos de los [[r uuid:CT001]]artículos 225[[/r uuid:CT001]] y concordantes de la Ley de Contrato de Trabajo citada.[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-compania-transporte-energia-electrica-alta-tension-transener-sa-causa-oviedo-adolfo-catalino-agua-energia-electrica-sociedad-estado-otros-otros-procesos-laborales-fa23000046-2023-07-04/123456789-640-0003-2ots-eupmocsollaf</guid>
     </item>
     <item>
       <title>[[p]]OBRAS SOCIALES-COBERTURA MEDICA-ALCANCE DE LA COBERTURA-GASTOS MEDICOS-DERECHO A LA SALUD-MENORES-EXCESOS U OMISIONES EN EL PRONUNCIAMIENTO-SENTENCIA ARBITRARIA[[/p]]</title>
@@ -98,10 +98,10 @@
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-actora-causa-osfatlyf-obra-social-federacion-argentina-trabajadores-luz-fuerza-amparo-ley-16986-fa23000047-2023-07-04/123456789-740-0003-2ots-eupmocsollaf</guid>
     </item>
     <item>
-      <title>[[p]]PRIVATIZACIONES-JUBILADOS-CONTRATO DE TRABAJO-CONVENIO COLECTIVO-REDUCCION DE TARIFAS-RESPONSABILIDAD SOLIDARIA-TRANSFERENCIA DEL ESTABLECIMIENTO[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-compania-transporte-energia-electrica-alta-tension-transener-sa-causa-oviedo-adolfo-catalino-agua-energia-electrica-sociedad-estado-otros-otros-procesos-laborales-fa23000046-2023-07-04/123456789-640-0003-2ots-eupmocsollaf</link>
-      <description>[[p]]Los actores, en su calidad de jubilados y/o pensionados de Agua y Energía Eléctrica S.E., tienen derecho a percibir el rubro "rebaja de tarifa" de luz y de gas previsto en el convenio colectivo de trabajo, pues la empresa demandada -continuadora de la empresa estatal privatizada- no puede deslindarse de la regla de solidaridad prevista en la ley de contrato de trabajo para las obligaciones de índole laboral que ampara a los trabajadores afectados por el proceso de privatización de empresas, aun cuando la relación laboral y la causa del crédito que se reclama sean anteriores a la privatización y los reclamantes no hayan sido transferidos, en tanto debe considerarse que hubo una transferencia de un establecimiento en los términos de los [[r uuid:CT001]]artículos 225[[/r uuid:CT001]] y concordantes de la Ley de Contrato de Trabajo citada.[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-compania-transporte-energia-electrica-alta-tension-transener-sa-causa-oviedo-adolfo-catalino-agua-energia-electrica-sociedad-estado-otros-otros-procesos-laborales-fa23000046-2023-07-04/123456789-640-0003-2ots-eupmocsollaf</guid>
+      <title>[[p]]DERECHO A SER JUZGADO EN UN PLAZO RAZONABLE[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-sebastian-miguel-pantano-causa-marascalchi-muniz-marcos-leandro-otros-legajo-casacion-fa23000048-2023-07-04/123456789-840-0003-2ots-eupmocsollaf</link>
+      <description>[[p]]Resulta configurada la afectación al derecho a ser juzgado en un plazo razonable, pues si bien la imposibilidad material alegada de fijar audiencia de debate por el gran cúmulo de causas impediría afirmar que se verificó una falta de diligencia especialmente relevante por parte de la autoridad judicial encargada de la conducción del proceso, lo cierto es que la duración de la causa no puede ser atribuida al imputado ni a la complejidad del caso. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-sebastian-miguel-pantano-causa-marascalchi-muniz-marcos-leandro-otros-legajo-casacion-fa23000048-2023-07-04/123456789-840-0003-2ots-eupmocsollaf</guid>
     </item>
     <item>
       <title>[[p]]COMPETENCIA DE LA CORTE SUPREMA-COMPETENCIA ORIGINARIA-CIUDAD AUTONOMA DE BUENOS AIRES-CANDIDATO ELECTORAL-JEFATURA DE GOBIERNO DE LA CIUDAD DE BUENOS AIRES-CUESTION NO FEDERAL-DERECHO LOCAL[[/p]]</title>
