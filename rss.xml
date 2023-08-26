@@ -6,13 +6,7 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Aug 2023 01:07:33 +0000</lastBuildDate>
-    <item>
-      <title>[[p]]EXCUSACION-MINISTROS DE LA CORTE SUPREMA-INADMISIBILIDAD DE LA ACCION[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-evolucion-liberal-otro-san-juan-provincia-amparo-fa23000032-2023-05-16/123456789-230-0003-2ots-eupmocsollaf</link>
-      <description>[[p]]El pedido para que se excusen los integrantes de la Corte resulta inadmisible porque la facultad de excusación de los jueces del Tribunal, mediando causa legal de recusación o no, es ajena a la actividad procesal de las partes.[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-evolucion-liberal-otro-san-juan-provincia-amparo-fa23000032-2023-05-16/123456789-230-0003-2ots-eupmocsollaf</guid>
-    </item>
+    <lastBuildDate>Sat, 26 Aug 2023 01:05:00 +0000</lastBuildDate>
     <item>
       <title>[[p]]SISTEMA REPUBLICANO-CONSTITUCION NACIONAL-ELECCIONES-REELECCION[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-parte-actora-causa-kolb-koslosky-maria-anses-reajustes-varios-fa23000034-2023-05-23/123456789-430-0003-2ots-eupmocsollaf</link>
@@ -114,6 +108,18 @@
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-ferrara-pablo-otro-estado-nacional-amparo-ambiental-fa23000054-2023-08-08/123456789-450-0003-2ots-eupmocsollaf</link>
       <description>[[p]]Es ajena a la competencia originaria la acción de amparo colectivo ambiental promovida contra el Estado Nacional, a fin de que se lleven a cabo acciones para lograr el cese del daño ambiental que viene produciendo la sistemática pesca ilegal llevada a cabo por embarcaciones y flotas extranjeras en la Zona Económica Exclusiva Argentina y el área adyacente, pues según se desprende de los términos del escrito de inicio -a cuya exposición de los hechos se debe atender de modo principal para determinar la competencia- la parte actora demanda al Estado Nacional, que solo es aforado al fuero federal, por lo que no se configura ninguno de los supuestos que surtan la competencia originaria prevista en los [[r uuid:CT001]]arts. 116[[/r uuid:CT001]] y [[r uuid:CT002]]117[[/r uuid:CT002]] de la Constitución Nacional (reglamentados por el art. 24, inc. 1°, del decreto-ley 1285/58).[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-ferrara-pablo-otro-estado-nacional-amparo-ambiental-fa23000054-2023-08-08/123456789-450-0003-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]CUESTIONES DE COMPETENCIA-COMPETENCIA ORDINARIA-ROBO-TENENCIA ILEGITIMA DE DOCUMENTO NACIONAL DE IDENTIDAD-SUBSIDIARIEDAD EXPRESA-PENA MAS GRAVE[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-romani-tappulima-saul-roosevelt-incidente-incompetencia-fa23000056-2023-08-17/123456789-650-0003-2ots-eupmocsollaf</link>
+      <description>[[p]]Es competente la justicia ordinaria para entender en la causa que se investiga la tenencia ilegítima de un documento nacional de identidad, en tanto las figuras de robo o eventualmente encubrimiento desplazan al tipo penal del [[r uuid:CT001]]artículo 33, inciso c), del decreto-ley 17.671/68[[/r uuid:CT001]], por la regla de subsidiariedad expresa, en razón de su pena mayor. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-romani-tappulima-saul-roosevelt-incidente-incompetencia-fa23000056-2023-08-17/123456789-650-0003-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]EMPLEO PUBLICO-AFIP-CAMBIO DE TAREAS-IUS VARIANDI[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-alaguibe-ana-maria-afip-contencioso-fa23000057-2023-08-17/123456789-750-0003-2ots-eupmocsollaf</link>
+      <description>[[p]]Cabe confirmar la disposición de la AFIP mediante la cual se dio por finalizadas las funciones que ejercía la actora como jefe de sección cobranzas judicial y se le asignaron nuevas tareas en la función de asesor, pues no puede verse en el accionar de la demandada un ejercicio abusivo del ius variandi ya que la normativa convencional contempla la posibilidad de relevar del cargo a los agentes que revistieran como Jefe de Unidades de Estructura y ubicarlos dentro de la misma categoría de revista en la Función de Asesor (ex art. 56, actual art. 34 punto 3.2 del Convenio Colectivo laudo 15/91).[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-alaguibe-ana-maria-afip-contencioso-fa23000057-2023-08-17/123456789-750-0003-2ots-eupmocsollaf</guid>
     </item>
   </channel>
 </rss>
