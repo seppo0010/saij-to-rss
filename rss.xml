@@ -6,7 +6,7 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Sep 2023 01:09:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Sep 2023 01:08:33 +0000</lastBuildDate>
     <item>
       <title>[[p]]ACCIDENTES DE TRABAJO-ACCIDENTE DE TRANSITO-ASEGURADORA DE RIESGOS DEL TRABAJO-RESPONSABILIDAD DEL ASEGURADOR-RESPONSABILIDAD CIVIL-RELACION DE CAUSALIDAD[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-asociart-sa-art-causa-alarcon-juan-esteban-goncalvez-nestor-abel-otro-accidente-accion-civil-fa23000039-2023-06-13/123456789-930-0003-2ots-eupmocsollaf</link>
@@ -114,6 +114,12 @@
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires--incidente-incompetencia-denunciante-varela-ruben-dario-fa23000060-2023-08-29/123456789-060-0003-2ots-eupmocsollaf</link>
       <description>[[p]]Es competente la justicia local para entender en la causa donde se investiga la tramitación de préstamos a nombre de una persona que desconoce haberlos solicitado, pues por no verificarse en el caso la falsificación de un documento destinado a acreditar la identidad de las personas ([[r uuid:CT001]]conf. artículo 292 del Código Penal[[/r uuid:CT001]]), los hechos se adecuarían, en principio, a la figura de defraudación que desplaza al tipo penal del [[r uuid:CT002]]artículo 33, inciso d), del decreto ley 17.671/68[[/r uuid:CT002]] por la regla de subsidiariedad expresa, en razón de su pena mayor, por lo cual no corresponde la intervención del fuero federal. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires--incidente-incompetencia-denunciante-varela-ruben-dario-fa23000060-2023-08-29/123456789-060-0003-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]MINISTERIO PUBLICO FISCAL-LEGITIMACION PROCESAL-SENTENCIA-CALIDAD DE PARTE-ACCION DE INCONSTITUCIONALIDAD-FACULTADES DEL FISCAL[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-universidad-nacional-matanza-otros-en-cultura-educacion-amparo-ley-16986-fa23000064-2023-09-06/123456789-460-0003-2ots-eupmocsollaf</link>
+      <description>[[p]]El Ministerio Público Fiscal de la Nación no se encuentra legitimado para cuestionar una sentencia que puso fin al pleito y que fue consentida por la actora y la demandada, dictada en un proceso no penal en el que no asumió el rol de parte, pues del texto del [[r uuid:CT001]]artículo 120 de la Constitución Nacional[[/r uuid:CT001]] no surge que se haya consagrado una suerte de excepción a los recaudos fijados en el artículo 116 de la Constitución para la actuación de los tribunales federales y tampoco permite sostener que el citado Ministerio Público adquiere el rol de parte en todas las causas en las que se debate la constitucionalidad de una norma (Voto del juez Rosenkrantz).[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-universidad-nacional-matanza-otros-en-cultura-educacion-amparo-ley-16986-fa23000064-2023-09-06/123456789-460-0003-2ots-eupmocsollaf</guid>
     </item>
     <item>
       <title>[[p]]CUESTIONES DE COMPETENCIA-MENORES-PRINCIPIO DE INMEDIATEZ[[/p]]</title>
