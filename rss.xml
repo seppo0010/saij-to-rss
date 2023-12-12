@@ -6,19 +6,7 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Dec 2023 01:13:55 +0000</lastBuildDate>
-    <item>
-      <title>[[p]]EMPLEO PUBLICO-AFIP-CAMBIO DE TAREAS-IUS VARIANDI[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-alaguibe-ana-maria-afip-contencioso-fa23000057-2023-08-17/123456789-750-0003-2ots-eupmocsollaf</link>
-      <description>[[p]]Cabe confirmar la disposición de la AFIP mediante la cual se dio por finalizadas las funciones que ejercía la actora como jefe de sección cobranzas judicial y se le asignaron nuevas tareas en la función de asesor, pues no puede verse en el accionar de la demandada un ejercicio abusivo del ius variandi ya que la normativa convencional contempla la posibilidad de relevar del cargo a los agentes que revistieran como Jefe de Unidades de Estructura y ubicarlos dentro de la misma categoría de revista en la Función de Asesor (ex art. 56, actual art. 34 punto 3.2 del Convenio Colectivo laudo 15/91).[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-alaguibe-ana-maria-afip-contencioso-fa23000057-2023-08-17/123456789-750-0003-2ots-eupmocsollaf</guid>
-    </item>
-    <item>
-      <title>[[p]]CUESTIONES DE COMPETENCIA-COMPETENCIA ORDINARIA-ROBO-TENENCIA ILEGITIMA DE DOCUMENTO NACIONAL DE IDENTIDAD-SUBSIDIARIEDAD EXPRESA-PENA MAS GRAVE[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-romani-tappulima-saul-roosevelt-incidente-incompetencia-fa23000056-2023-08-17/123456789-650-0003-2ots-eupmocsollaf</link>
-      <description>[[p]]Es competente la justicia ordinaria para entender en la causa que se investiga la tenencia ilegítima de un documento nacional de identidad, en tanto las figuras de robo o eventualmente encubrimiento desplazan al tipo penal del [[r uuid:CT001]]artículo 33, inciso c), del decreto-ley 17.671/68[[/r uuid:CT001]], por la regla de subsidiariedad expresa, en razón de su pena mayor. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-romani-tappulima-saul-roosevelt-incidente-incompetencia-fa23000056-2023-08-17/123456789-650-0003-2ots-eupmocsollaf</guid>
-    </item>
+    <lastBuildDate>Tue, 12 Dec 2023 01:13:59 +0000</lastBuildDate>
     <item>
       <title>[[p]]DEFRAUDACION-PRESTAMO BANCARIO-COMPETENCIA LOCAL[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires--incidente-incompetencia-denunciante-varela-ruben-dario-fa23000060-2023-08-29/123456789-060-0003-2ots-eupmocsollaf</link>
@@ -126,6 +114,12 @@
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-defensa-causa-llanos-ermindo-edgardo-marcelo-recurso-inconstitucionalidad-fa23000081-2023-11-23/123456789-180-0003-2ots-eupmocsollaf</link>
       <description>[[p]]Es arbitraria la decisión que hizo lugar a la acción de nulidad por cosa juzgada írrita y anuló el sobreseimiento del imputado, toda vez que omite expresar los argumentos por los que concluye que la resolución impugnada constituye una derivación razonada del derecho vigente conforme a los hechos acreditados en el expediente, tiñendo de dogmatismo esa apreciación que, inmotivada, termina emanando exclusivamente de la voluntad del juzgador.[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-defensa-causa-llanos-ermindo-edgardo-marcelo-recurso-inconstitucionalidad-fa23000081-2023-11-23/123456789-180-0003-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]EXCUSACION-MINISTROS DE LA CORTE SUPREMA-FACULTADES DEL JUEZ-COPARTICIPACION FEDERAL-GOBIERNO DE LA CIUDAD AUTONOMA DE BUENOS AIRES[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-gobierno-ciudad-buenos-aires-estado-nacional-accion-declarativa-inconstitucionalidad-cobro-pesos-fa23000082-2023-11-30/123456789-280-0003-2ots-eupmocsollaf</link>
+      <description>[[p]]Los pedidos formulados por el Estado Nacional en sus presentaciones con el objeto de que se excusen integrantes del Tribunal en la causa en la que se discute la coparticipación correspondiente a la Ciudad de Buenos Aires, resultan inadmisibles porque la facultad de excusación de los jueces, mediando causa legal de recusación o no, es ajena a la actividad procesal de las partes[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-gobierno-ciudad-buenos-aires-estado-nacional-accion-declarativa-inconstitucionalidad-cobro-pesos-fa23000082-2023-11-30/123456789-280-0003-2ots-eupmocsollaf</guid>
     </item>
   </channel>
 </rss>
