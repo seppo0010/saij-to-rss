@@ -6,13 +6,7 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Jan 2024 01:14:11 +0000</lastBuildDate>
-    <item>
-      <title>[[p]]SENTENCIA CONDENATORIA-PRISION PERPETUA-HOMICIDIO AGRAVADO-FUNDAMENTACION DE SENTENCIAS-FALTA DE FUNDAMENTACION[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-defensa-causa-gomez-yamila-lujan-homicidio-agravado-vinculo-fa23000062-2023-09-06/123456789-260-0003-2ots-eupmocsollaf</link>
-      <description>[[p]]Es arbitraria la sentencia que confirmó la pena de prisión perpetua impuesta a la imputada por el delito de homicidio agravado, pues la mera enunciación de los agravios que había introducido el fiscal no satisface el requisito de fundamentación, lo que adquiere mayor gravedad dado que el sentido de la decisión importaba que recobrara validez la pena de prisión perpetua aplicada. -Del dictamen de la Procuración General al que la Corte remite-. -El juez Lorenzetti, en disidencia, consideró inadmisible el recurso extraordinario-[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-defensa-causa-gomez-yamila-lujan-homicidio-agravado-vinculo-fa23000062-2023-09-06/123456789-260-0003-2ots-eupmocsollaf</guid>
-    </item>
+    <lastBuildDate>Thu, 11 Jan 2024 01:14:28 +0000</lastBuildDate>
     <item>
       <title>[[p]]CUESTIONES DE COMPETENCIA-RADICACION DEL EXPEDIENTE[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-promedon-sa-gcba-agip-dgr-proceso-conocimiento-fa23000065-2023-09-12/123456789-560-0003-2ots-eupmocsollaf</link>
@@ -102,6 +96,12 @@
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-defensa-santos-clemente-vera-causa-sandoval-antonio-eduardo-otros-recurso-inconstitucionalidad-fa23000084-2023-12-07/123456789-480-0003-2ots-eupmocsollaf</link>
       <description>[[p]]Es arbitraria la decisión que rechazó el agravio relacionado con el exceso de jurisdicción en que habría incurrido el tribunal revisor al revocar la absolución y condenar al acusado, pues ella omitió analizar exhaustivamente las normas locales de procedimiento que regulaban la cuestión, así como las consecuencias que acarreaba su interpretación frente a los agravios de la parte, eludiendo el asunto sin más fundamento que una descontextualizada cita doctrinaria y la invocación de jurisprudencia local que tampoco daba respuesta a la cuestión planteada.[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-defensa-santos-clemente-vera-causa-sandoval-antonio-eduardo-otros-recurso-inconstitucionalidad-fa23000084-2023-12-07/123456789-480-0003-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]CUESTIONES DE COMPETENCIA-MENORES-CONVENIO DE ALIMENTOS-PRINCIPIO DE INMEDIACION-TUTELA JUDICIAL EFECTIVA-DOMICILIO DEL MENOR[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires---ejecucion-alimentos-incidente-fa23000089-2023-12-21/123456789-980-0003-2ots-eupmocsollaf</link>
+      <description>[[p]]Es competente para entender en la ejecución de un convenio de alimentos el juez del lugar donde la menor efectivamente habita, pues la inmediación judicial contribuye a la eficacia de la actividad protectoria y ello es coherente con las directivas del Código Civil y Comercial en tanto consagra como principio procesal el respecto de la inmediación y de la tutela judicial efectiva, y asigna el conocimiento de los asuntos tocantes a los menores de edad al juez del foro en que se sitúa su centro de vida (arts. [[r uuid:CT001]]706[[/r uuid:CT001]] y [[r uuid:CT002]]716[[/r uuid:CT002]] del Código Civil y Comercial). -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires---ejecucion-alimentos-incidente-fa23000089-2023-12-21/123456789-980-0003-2ots-eupmocsollaf</guid>
     </item>
     <item>
       <title>[[p]]CONTRATO DE SEGURO-COBERTURA-FALTA DE LICENCIA DE CONDUCIR-SENTENCIA ARBITRARIA[[/p]]</title>
