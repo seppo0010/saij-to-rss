@@ -6,13 +6,7 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Feb 2024 01:07:22 +0000</lastBuildDate>
-    <item>
-      <title>[[p]]CONFLICTOS DE COMPETENCIA-COMPETENCIA NACIONAL-ENCUBRIMIENTO-COLEGIO PUBLICO DE ABOGADOS-COMPETENCIA FEDERAL-CRITERIO RESTRICTIVO[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-awad-eduardo-incidente-incompetencia-fa23000073-2023-10-19/123456789-370-0003-2ots-eupmocsollaf</link>
-      <description>[[p]]Es de competencia nacional la causa en la cual se denunció a las autoridades del Colegio Público de Abogados de la Capital Federal por presunto encubrimiento, tras el rechazo de una denuncia presentada ante el Tribunal de Disciplina de la entidad, en contra de un abogado matriculado acusado de cometer presuntas maniobras fraudulentas en perjuicio de particulares, dado que la denuncia se encuentra dirigida contra las autoridades de una entidad de carácter local con los derechos y obligaciones de las personas de derecho público y, en consecuencia, no se advierte ninguna circunstancia que justifique la jurisdicción federal, que es de naturaleza excepcional y restrictiva. (Del Dictamen de la procuración General, al que adhiere la mayoría de la Corte)[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-awad-eduardo-incidente-incompetencia-fa23000073-2023-10-19/123456789-370-0003-2ots-eupmocsollaf</guid>
-    </item>
+    <lastBuildDate>Fri, 01 Mar 2024 01:14:00 +0000</lastBuildDate>
     <item>
       <title>[[p]]CUESTIONES DE COMPETENCIA-COMPETENCIA FEDERAL-BANCO CENTRAL DE LA REPUBLICA ARGENTINA[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-banco-central-republica-argentina-asociacion-bancaria-nacional-otros-inhibitoria-fa23000075-2023-10-24/123456789-570-0003-2ots-eupmocsollaf</link>
@@ -90,6 +84,12 @@
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-queja-deducido-citada-garantia-causa-dromi-antonio-rafael-otro-rueda-carlos-alberto-otros-danos-perjuicios-acc-tran-les-muerte-fa23000087-2023-12-21/123456789-780-0003-2ots-eupmocsollaf</link>
       <description>[[p]]Es arbitraria la sentencia que dispuso la inoponibilidad al damnificado de la cláusula de exclusión de cobertura por falta de licencia de conducir de un menor de edad que aún no contaba con la edad mínima para conducir vehículos en la vía pública establecida por el [[r uuid:CT001]]artículo 11, inciso b, de la Ley Nacional de Tránsito n° 24.449[[/r uuid:CT001]], pues supone una interpretación contradictoria con los términos de la norma citada y soslaya que la falta de habilitación del conductor en el caso concreto no surge del contrato ni de la reglamentación dictada por la Superintendencia de Seguros de la Nación sino del propio texto de la ley que consagra la edad de diecisiete años para la clase de vehículo siniestrado.[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-queja-deducido-citada-garantia-causa-dromi-antonio-rafael-otro-rueda-carlos-alberto-otros-danos-perjuicios-acc-tran-les-muerte-fa23000087-2023-12-21/123456789-780-0003-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]CONFIRMACION DE SENTENCIA-DAÑOS Y PERJUICIOS-RESPONSABILIDAD DEL ESTADO POR ERROR JUDICIAL-FUNDAMENTACION DE SENTENCIAS-PRISION PREVENTIVA-ENTRE RIOS[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-parte-actora-causa-irigoytia-carlos-francisco-otros-superior-gobierno-provincia-entre-rios-ordinario-danos-perjuicios-fa24000007-2024-02-20/123456789-700-0004-2ots-eupmocsollaf</link>
+      <description>[[p]]No resulta arbitraria la sentencia que rechazó el reclamo de daños y perjuicios iniciado contra una provincia por el accionar ilegítimo del poder judicial local derivado de la prisión preventiva y procesamiento del actor, toda vez que el tribunal fundó debidamente su decisión, al ponderar, a la luz de la doctrina de sus propios pronunciamientos -en coincidencia con el criterio de la Corte sobre la materia-, los hechos de la causa y los requisitos que podrían haber habilitado la reparación y que no concurrían en el caso (Del dictamen de la Procuración General al que la Corte remite)[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-parte-actora-causa-irigoytia-carlos-francisco-otros-superior-gobierno-provincia-entre-rios-ordinario-danos-perjuicios-fa24000007-2024-02-20/123456789-700-0004-2ots-eupmocsollaf</guid>
     </item>
     <item>
       <title>[[p]]REVOCACION DE SENTENCIA-RESERVAS NATURALES-DOCTRINA DE LA ARBITRARIEDAD-SENTENCIA ARBITRARIA-DERECHO DE PROPIEDAD-INDEMNIZACION[[/p]]</title>
