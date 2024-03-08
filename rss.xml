@@ -6,13 +6,7 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Mar 2024 00:56:41 +0000</lastBuildDate>
-    <item>
-      <title>[[p]]EXTRADICION-ESTADO REQUIRENTE-NULIDAD PROCESAL-RESOLUCION DENEGATORIA-PRUEBA-PERSEGUIDO POLITICO-FALTA DE AGRAVIO CONCRETO[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-jones-huala-francisco-facundo-extradicion-fa23000078-2023-11-14/123456789-870-0003-2ots-eupmocsollaf</link>
-      <description>[[p]]Es improcedente el planteo de nulidad deducido contra la decisión que hizo lugar a la extradición y rechazó las pruebas propuestas por la defensa para fundar la invocada persecución ilegítima de su asistido en el Estado requirente, toda vez que no demostró cuál fue el perjuicio concreto que la privación de esas pruebas produjo, atento al principio rector en materia de invalidación de los actos procesales penales.[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-jones-huala-francisco-facundo-extradicion-fa23000078-2023-11-14/123456789-870-0003-2ots-eupmocsollaf</guid>
-    </item>
+    <lastBuildDate>Fri, 08 Mar 2024 01:07:47 +0000</lastBuildDate>
     <item>
       <title>[[p]]SENTENCIA ARBITRARIA-FUNDAMENTACION DE SENTENCIAS-DERIVACION RAZONADA DEL DERECHO VIGENTE-VOLUNTAD DEL LEGISLADOR-SOBRESEIMIENTO-ACCION DE NULIDAD-COSA JUZGADA IRRITA[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-defensa-causa-llanos-ermindo-edgardo-marcelo-recurso-inconstitucionalidad-fa23000081-2023-11-23/123456789-180-0003-2ots-eupmocsollaf</link>
@@ -120,6 +114,12 @@
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-marchi-hector-daniel-carrio-elisa-maria-avelina-otros-danos-perjuicios-fa24000009-2024-02-29/123456789-900-0004-2ots-eupmocsollaf</link>
       <description>[[p]]Corresponde revocar la sentencia que desestimó la excepción de falta de acción opuesta -como de previo y especial pronunciamiento en una acción de daños y perjuicios- por un diputado fundada en la inmunidad parlamentaria, pues las expresiones vertidas ante diversos medios periodísticos por el diputado demandado, en su carácter de legislador nacional, guardan conexidad con la función de control desempeñada por aquél en el marco de investigaciones llevadas a cabo, sobre la administración de los fondos del Poder Judicial y la denuncia penal formulada por aquél resultó una derivación de tales investigaciones (Del dictamen de la Procuración General al que la Corte remite)[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-marchi-hector-daniel-carrio-elisa-maria-avelina-otros-danos-perjuicios-fa24000009-2024-02-29/123456789-900-0004-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]DAÑOS Y PERJUICIOS-RESPONSABILIDAD DEL ESTADO-CODIGO CIVIL-APLICACION TEMPORAL DE LA LEY-LEY VIGENTE[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-lacave-flora-otros-buenos-aires-provincia-otros-danos-perjuicios-fa24000014-2024-03-05/123456789-410-0004-2ots-eupmocsollaf</link>
+      <description>[[p]]Corresponde establecer que el caso no se encuentra alcanzado por las disposiciones de la [[r uuid:CT001]]ley 26.944[[/r uuid:CT001]], ni por las del Código Civil y Comercial de la Nación aprobado por la ley 26.994, pues se trata de determinar la responsabilidad de los distintos codemandados en un hecho ocurrido con anterioridad a su entrada en vigor y, por lo tanto, debe ser juzgado de conformidad con la regulación prevista en el Código Civil entonces vigente, con los principios de derecho público aplicables y con la interpretación que de ellos ha realizado la Corte ([[r uuid:CT002]]artículo 7, Código Civil y Comercial de la Nación[[/r uuid:CT002]]).[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-lacave-flora-otros-buenos-aires-provincia-otros-danos-perjuicios-fa24000014-2024-03-05/123456789-410-0004-2ots-eupmocsollaf</guid>
     </item>
   </channel>
 </rss>
