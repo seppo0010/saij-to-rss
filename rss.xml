@@ -6,13 +6,7 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 May 2024 01:12:52 +0000</lastBuildDate>
-    <item>
-      <title>[[p]]IMPUESTO SOBRE LOS INGRESOS BRUTOS-CONSTITUCIONALIDAD-SENTENCIA ARBITRARIA-COPARTICIPACION FEDERAL-INTERPRETACION DE LA LEY[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-parte-actora-causa-cooperativa-farmaceutica-provision-consumo-alberdi-ltda-provincia-chaco-amparo-fa24000022-2024-03-19/123456789-220-0004-2ots-eupmocsollaf</link>
-      <description>[[p]]Es arbitraria la sentencia que declara la constitucionalidad de la norma local que grava con el impuesto sobre los ingresos brutos cualquier actividad lucrativa o no con el argumento de que no contradice sino que complementa al [[r uuid:CT001]]art. 9° de la Ley Nacional N° 23.548[[/r uuid:CT001]], pues dicha interpretación torna superflua y carente de toda operatividad a la expresión "con fines de lucro" empleada por el art. 9°, inc. b), pto. I, de la citada ley 23.548 (Voto de los jueces Rosenkrantz y Maqueda).[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-parte-actora-causa-cooperativa-farmaceutica-provision-consumo-alberdi-ltda-provincia-chaco-amparo-fa24000022-2024-03-19/123456789-220-0004-2ots-eupmocsollaf</guid>
-    </item>
+    <lastBuildDate>Fri, 10 May 2024 01:13:43 +0000</lastBuildDate>
     <item>
       <title>[[p]]EXTRADICION-DEFRAUDACION INFORMATICA-TIPO PENAL[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-biondi-damian-carlos-otros-extradicion-fa24000024-2024-04-04/123456789-420-0004-2ots-eupmocsollaf</link>
@@ -114,6 +108,12 @@
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-gentil-tenca-ozedes-extradicion-fa24000043-2024-04-30/123456789-340-0004-2ots-eupmocsollaf</link>
       <description>[[p]]Es procedente la extradición del requerido a la República del Paraguay si el agravio traído por el recurrente remite al análisis de la validez de un acto procesal cumplido en el proceso extranjero que compromete el modo en que cabe interpretar las reglas procedimentales vinculadas con la decisión que lo declaró rebelde y con el domicilio en el que la notificación previa fue llevada a cabo -y su eventual impacto en la actividad procesal penal posterior-, aspectos que resultan ajenos al procedimiento de extradición y propios de los jueces foráneos, ante los cuales corresponde que sean planteados los reparos.[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-gentil-tenca-ozedes-extradicion-fa24000043-2024-04-30/123456789-340-0004-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]VIOLENCIA DE GENERO-SENTENCIA ABSOLUTORIA-RETRACTACION-FUNDAMENTACION DE SENTENCIAS-VALORACION DE LA PRUEBA-SENTENCIA ARBITRARIA[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-procuradora-adjunta-poder-judicial-provincia-entre-rios-causa-mino-manuel-alejandro-lesiones-graves-grado-tentativa-fa24000047-2024-05-07/123456789-740-0004-2ots-eupmocsollaf</link>
+      <description>[[p]]Es arbitraria la sentencia absolutoria toda vez que el superior tribunal sólo valoró el testimonio de la víctima en el debate, que estimó corroborado por los dichos de sus hijos, mientras que a los otros elementos de convicción - actuaciones de los juzgados de familia e instrucción, informes de los distintos organismos que intervinieron con motivo de la problemática de violencia familiar y de género, testimonios de los profesionales que la asistieron, de su hermana e hijas- los excluyó por entender que no probaban el hecho a pesar de ser conducentes para la decisión. -Del dictamen de la procuración General al que la Corte remite-[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-procuradora-adjunta-poder-judicial-provincia-entre-rios-causa-mino-manuel-alejandro-lesiones-graves-grado-tentativa-fa24000047-2024-05-07/123456789-740-0004-2ots-eupmocsollaf</guid>
     </item>
   </channel>
 </rss>
