@@ -6,13 +6,7 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 May 2024 01:14:49 +0000</lastBuildDate>
-    <item>
-      <title>[[p]]IMPUESTO A LAS GANANCIAS-DETERMINACION DE IMPUESTOS-EXCESOS U OMISIONES EN EL PRONUNCIAMIENTO-FALTA DE APRECIACION DE CUESTIONES CONDUCENTES-SENTENCIA ARBITRARIA[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-oleaginosa-oeste-sa-direccion-general-impositiva-recurso-directo-organismo-externo-fa24000028-2024-04-04/123456789-820-0004-2ots-eupmocsollaf</link>
-      <description>[[p]]Es arbitraria la sentencia que revocó parcialmente la determinación de oficio del impuesto a la ganancias practicada por la AFIP, pues tanto el Tribunal Fiscal como la Cámara omitieron pronunciarse sobre una cuestión debidamente introducida por aquella y reconocida por la empresa actora, conducente para la correcta solución del caso, referida a que la actora no había logrado demostrar fehacientemente la fecha de concertación de las ventas efectuadas por carecer de registros, lo que la obligó a determinarla mediante un cálculo aproximado en función de la fecha de facturación.[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-oleaginosa-oeste-sa-direccion-general-impositiva-recurso-directo-organismo-externo-fa24000028-2024-04-04/123456789-820-0004-2ots-eupmocsollaf</guid>
-    </item>
+    <lastBuildDate>Thu, 23 May 2024 01:14:06 +0000</lastBuildDate>
     <item>
       <title>[[p]]SENTENCIA CONDENATORIA-RECHAZO DEL RECURSO-EXCESOS U OMISIONES EN EL PRONUNCIAMIENTO-CUESTION FEDERAL-NOTIFICACION-COMPUTO DEL PLAZO-INTERPOSICION DEL RECURSO-DEFENSA EN JUICIO-SENTENCIA ARBITRARIA[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-defensa-causa-estepa-hector-daniel-recurso-extraordinario-inaplicabilidad-ley-fa24000027-2024-04-09/123456789-720-0004-2ots-eupmocsollaf</link>
@@ -120,6 +114,24 @@
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires--abuso-sexual-art-119-1-parrafo-amenazas-fa24000050-2024-05-16/123456789-050-0004-2ots-eupmocsollaf</link>
       <description>[[p]]La decisión que rechazó el pedido de sobreseimiento de un menor es arbitraria, pues pese a la claridad con que los pronunciamientos de la Corte explican que, de acuerdo con normas nacionales, constitucionales e internacionales, el límite de edad de los menores que no han cumplido dieciséis años de edad, impide la formación del proceso respecto del niño o la niña, el a quo omitió interpretar de manera estricta dicha regla, y afirmó dogmáticamente, por el contrario, que aquellas disposiciones permitían la promoción de la acción penal respecto del menor, su imputación formal, incluyendo su convocatoria a prestar declaración. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires--abuso-sexual-art-119-1-parrafo-amenazas-fa24000050-2024-05-16/123456789-050-0004-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]INTERES SUPERIOR DEL NIÑO-MEDIDAS CAUTELARES-DOMICILIO DEL MENOR-FUNDAMENTACION DE SENTENCIAS-DERIVACION NO RAZONADA DEL DERECHO VIGENTE[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-causa--cuidado-personal-hijos-fa24000052-2024-05-16/123456789-250-0004-2ots-eupmocsollaf</link>
+      <description>[[p]]La decisión que restableció una medida cautelar por la cual se prohibía a los progenitores alterar el domicilio del niño sin la conformidad del otro o con autorización judicial debe ser dejada sin efecto, pues mantener aquella medida, dictada hace más de 7 años, cuando el niño reside con su madre en otra ciudad desde hace varios años donde mantiene vínculo con la familia extensa materna y ha sido escolarizado, no se presenta como una decisión razonada del derecho vigente a la luz de las circunstancias particulares del caso, ni resulta contemplativa de su interés superior que debe primar en el proceso de toma de decisiones que lo afecten.[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-causa--cuidado-personal-hijos-fa24000052-2024-05-16/123456789-250-0004-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]DECLARACION DE REINCIDENCIA-CUMPLIMIENTO DE CONDENA ANTERIOR-PERIODO DE PRUEBA DEL CONDENADO-INTERPRETACION DE LA LEY-DOCTRINA DE LA CORTE-SENTENCIA ARBITRARIA[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-fiscal-general-ante-tribunales-orales-criminal-correccional-esta-ciudad-causa-moreira-cristian-alberto-incidente-recurso-extraordinario-fa24000053-2024-05-16/123456789-350-0004-2ots-eupmocsollaf</link>
+      <description>[[p]]Es arbitraria la sentencia que considera que sólo puede contar como cumplimiento parcial, a los fines del régimen de agravación por reincidencia, la ejecución de una pena que haya permitido al condenado transitar todas las fases del período de tratamiento e ingresar al de prueba, según la [[r uuid:CT001]]ley 24.660[[/r uuid:CT001]], pues, no sólo no se ajusta al tenor literal de la regla del artículo 50 del Código Penal, ni a su historia legislativa, sino que tampoco da cuenta de la doctrina de la Corte de acuerdo con la cual es la mayor culpabilidad que cabe razonablemente atribuir a quien comete un nuevo delito después de haber experimentado pena por la comisión de un crimen anterior lo que da soporte constitucional al régimen de agravación punitiva por reincidencia que regula el citado Código. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-fiscal-general-ante-tribunales-orales-criminal-correccional-esta-ciudad-causa-moreira-cristian-alberto-incidente-recurso-extraordinario-fa24000053-2024-05-16/123456789-350-0004-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]GUARDA PROVISORIA-ESTADO DE ADOPTABILIDAD-REVOCACION DE LA GUARDA-INTERES SUPERIOR DEL NIÑO-FUNDAMENTACION DE SENTENCIAS-SENTENCIA ARBITRARIA[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-causa-otro-control-legalidad-ley-26061-fa24000051-2024-05-16/123456789-150-0004-2ots-eupmocsollaf</link>
+      <description>[[p]]Es arbitraria la decisión que declaró el estado de adoptabilidad de los infantes y dispuso el cese de la convivencia de ellos con el matrimonio guardador, toda vez que importó un examen parcial y riguroso del asunto que conllevó a desatender los derechos de los sujetos cuya protección constituía el objeto principal del juicio, enfocando el análisis solo desde la perspectiva de una de las partes involucradas, sin ponderar la situación real de los niños ni las consecuencias que podrían derivarse para ellos.[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-causa-otro-control-legalidad-ley-26061-fa24000051-2024-05-16/123456789-150-0004-2ots-eupmocsollaf</guid>
     </item>
   </channel>
 </rss>
