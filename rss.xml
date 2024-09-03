@@ -6,7 +6,7 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Sep 2024 01:26:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 01:24:35 +0000</lastBuildDate>
     <item>
       <title>[[p]]COMPETENCIA DE LA CORTE SUPREMA-COMPETENCIA ORIGINARIA-CUESTION DE DERECHO PUBLICO LOCAL-ACCION DECLARATIVA DE INCONSTITUCIONALIDAD-LEY PROVINCIAL-AUTONOMIA MUNICIPAL-INCOMPETENCIA[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-municipalidad-tanti-cordoba-provincia-accion-declarativa-certeza-fa24000098-2024-08-01/123456789-890-0004-2ots-eupmocsollaf</link>
@@ -114,6 +114,12 @@
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-joaquin-rosas-fiscal-estado-provincia-mendoza-causa-gutierrez-patricia-valls-gustavo-otros-recurso-extraordinario-inconstitucionalidad-fa24000118-2024-08-27/123456789-811-0004-2ots-eupmocsollaf</link>
       <description>[[p]]Corresponde rechazar el recurso interpuesto contra la decisión que destituyó al actor del cargo de Fiscal de Estado pues ausente la demostración por parte del recurrente de haberse transgredido en forma nítida, inequívoca y concluyente las reglas estructurales del debido proceso, no hay materia federal que habilite la intervención de la Corte en el marco de los rigurosos límites de su competencia que, para asuntos de esta naturaleza, le imponen los arts. [[r uuid:CT001]]31, 116 y 117 de la Constitución Nacional[[/r uuid:CT001]], y el [[r uuid:CT002]]art. 14 de la ley 48[[/r uuid:CT002]].[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-joaquin-rosas-fiscal-estado-provincia-mendoza-causa-gutierrez-patricia-valls-gustavo-otros-recurso-extraordinario-inconstitucionalidad-fa24000118-2024-08-27/123456789-811-0004-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]JUBILACIONES-HABER JUBILATORIO-APORTES PREVISIONALES-DECLARACION DE INCONSTITUCIONALIDAD-REVOCACION DE SENTENCIA[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-hartmann-gabriel-leonidio-anses-reajustes-varios-fa24000122-2024-08-27/123456789-221-0004-2ots-eupmocsollaf</link>
+      <description>[[p]]Corresponde revocar la sentencia que declara la inconstitucionalidad del [[r uuid:CT001]]art. 25 de la ley 24.241[[/r uuid:CT001]], si el afiliado no aportó sobre la totalidad de sus ingresos estando en actividad ni ejerció las opciones que le hubieran permitido alcanzar la tasa de sustitución razonable. (Del precedente Gualtieri, Alberto c/ ANSeS s/ reajustes varios, al que remite la Corte).[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-hartmann-gabriel-leonidio-anses-reajustes-varios-fa24000122-2024-08-27/123456789-221-0004-2ots-eupmocsollaf</guid>
     </item>
   </channel>
 </rss>
