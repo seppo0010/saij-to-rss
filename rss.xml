@@ -6,18 +6,12 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Oct 2024 01:37:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 01:37:25 +0000</lastBuildDate>
     <item>
       <title>[[p]]CONTRABANDO DE ESTUPEFACIENTES-TENTATIVA-EJECUCION DE LA PENA-ESCALA PENAL-PENA-GRADUACION DE LA PENA-PENA EN SUSPENSO-DISMINUCION DE LA PENA-SENTENCIA ARBITRARIA[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-fiscal-general-causa-agero-julio-cesar-incidente-recurso-extraordinario-fa24000120-2024-08-24/123456789-021-0004-2ots-eupmocsollaf</link>
       <description>[[p]]Es arbitraria la sentencia que corrigió el monto mínimo de la escala penal fijada para el delito de tentativa de contrabando de exportación de estupefacientes destinados a la comercialización a fin de habilitar su cumplimiento en suspenso, pues los argumentos esgrimidos a fin de habilitar la ejecución condicional de la pena no autorizan a soslayar lo reglado por el [[r uuid:CT001]]art. 26 del Código Penal[[/r uuid:CT001]] ni a modificar el monto mínimo de la escala penal correspondiente, sin que medie excepción legal expresamente prevista a esos fines ni declaración de inconstitucionalidad de la ley aplicable al caso concreto, porque ello supone prescindir de lo estipulado por el legislador.[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-fiscal-general-causa-agero-julio-cesar-incidente-recurso-extraordinario-fa24000120-2024-08-24/123456789-021-0004-2ots-eupmocsollaf</guid>
-    </item>
-    <item>
-      <title>[[p]]SANCIONES TRIBUTARIAS-CONDONACION DE MULTAS[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-natusur-sa-afi-dgi-contencioso-administrativo-varios-fa24000129-2024-08-27/123456789-921-0004-2ots-eupmocsollaf</link>
-      <description>[[p]]Para acceder al beneficio de la condonación de multas no debe cumplirse con los requisitos establecidos en el [[r uuid:CT001]]art. 9 de la ley 27.541[[/r uuid:CT001]] -desistir de la acción y del derecho, asumir costas y gastos causídicos- ni presentar el formulario de declaración jurada 408 del [[r uuid:CT002]]art. 7 de la resolución general (AFIP) 4.667/2020[[/r uuid:CT002]], pues dicha exigencia se encuentra establecida para gozar de los beneficios previstos para las obligaciones que se regularizan dentro de las modalidades previstas en el título IV, capítulo 1, de la ley 27.541, pero no para la condonación de las multas originadas en obligaciones sustanciales ya canceladas a la fecha de entrada en vigencia de la [[r uuid:CT003]]ley 27.562[[/r uuid:CT003]] (cfr. [[r uuid:CT004]]art. 12, cuarto párrafo, de la ley 27.541[[/r uuid:CT004]]). -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-natusur-sa-afi-dgi-contencioso-administrativo-varios-fa24000129-2024-08-27/123456789-921-0004-2ots-eupmocsollaf</guid>
     </item>
     <item>
       <title>[[p]]JUBILACIONES-HABER JUBILATORIO-APORTES PREVISIONALES-DECLARACION DE INCONSTITUCIONALIDAD-REVOCACION DE SENTENCIA[[/p]]</title>
@@ -54,6 +48,12 @@
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-actor-causa-medicus-ley-discapacidad-fa24000117-2024-08-27/123456789-711-0004-2ots-eupmocsollaf</link>
       <description>[[p]]Es arbitraria la sentencia que impuso en un proceso de amparo las costas en el orden causado, pues el tribunal a quo resolvió el punto sin brindar motivos para apartarse de la regla general atiente a las costas en tal tipo de proceso, prevista en el [[r uuid:CT001]]art. 14 de la ley 16.986[[/r uuid:CT001]], que establece su imposición a la parte vencida con la sola excepción de que, con anterioridad a la contestación del informe previsto en el [[r uuid:CT002]]art. 8 de esa ley[[/r uuid:CT002]], se produzca el cese del acto u omisión en que se fundó el amparo, supuesto que no ocurrió en las actuaciones.[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-actor-causa-medicus-ley-discapacidad-fa24000117-2024-08-27/123456789-711-0004-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]SANCIONES TRIBUTARIAS-CONDONACION DE MULTAS[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-natusur-sa-afi-dgi-contencioso-administrativo-varios-fa24000129-2024-08-27/123456789-921-0004-2ots-eupmocsollaf</link>
+      <description>[[p]]Para acceder al beneficio de la condonación de multas no debe cumplirse con los requisitos establecidos en el [[r uuid:CT001]]art. 9 de la ley 27.541[[/r uuid:CT001]] -desistir de la acción y del derecho, asumir costas y gastos causídicos- ni presentar el formulario de declaración jurada 408 del [[r uuid:CT002]]art. 7 de la resolución general (AFIP) 4.667/2020[[/r uuid:CT002]], pues dicha exigencia se encuentra establecida para gozar de los beneficios previstos para las obligaciones que se regularizan dentro de las modalidades previstas en el título IV, capítulo 1, de la ley 27.541, pero no para la condonación de las multas originadas en obligaciones sustanciales ya canceladas a la fecha de entrada en vigencia de la [[r uuid:CT003]]ley 27.562[[/r uuid:CT003]] (cfr. [[r uuid:CT004]]art. 12, cuarto párrafo, de la ley 27.541[[/r uuid:CT004]]). -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-natusur-sa-afi-dgi-contencioso-administrativo-varios-fa24000129-2024-08-27/123456789-921-0004-2ots-eupmocsollaf</guid>
     </item>
     <item>
       <title>[[p]]RECURSO EXTRAORDINARIO LOCAL-SENTENCIA ARBITRARIA-FUNDAMENTACION DE SENTENCIAS-EXCESIVO RIGOR FORMAL-GARANTIA A SER JUZGADO EN UN PLAZO RAZONABLE[[/p]]</title>
