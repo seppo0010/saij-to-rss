@@ -6,13 +6,7 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Nov 2024 01:36:52 +0000</lastBuildDate>
-    <item>
-      <title>[[p]]ELECCIONES GREMIALES-DELEGADO GREMIAL-DERECHOS SINDICALES-DECLARACION DE INCONSTITUCIONALIDAD-LIBERTAD SINDICAL[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-sindicato-unido-trabajadores-empleados-pami-sutepa-instituto-nacional-servicios-sociales-para-jubilados-pensionados-juicio-sumarisimo-fa24000132-2024-09-17/123456789-231-0004-2ots-eupmocsollaf</link>
-      <description>[[p]]La sentencia que al declarar la inconstitucionalidad del [[r uuid:CT001]]art. 41 inc a de la ley 23.551[[/r uuid:CT001]] reconoció el derecho de los afiliados del sindicato actor a participar, en pie de igualdad, en una elección de representantes sindicales o de delegados convocada con carácter general, dejando expresamente a salvo que ello no implicaba facultar a la entidad gremial a designar sus propios delegados debe ser revocada, pues la condición impuesta por la sentencia priva a las organizaciones sindicales simplemente inscriptas del derecho de elegir libremente a sus representantes, de organizar su gestión y su actividad y de formular su programa de acción (art. 3.1, Convenio 87 de la OIT) y, en definitiva, de contar con los medios esenciales para defender los intereses profesionales de sus miembros, lo que configura una injerencia injustificada en la libertad sindical. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-sindicato-unido-trabajadores-empleados-pami-sutepa-instituto-nacional-servicios-sociales-para-jubilados-pensionados-juicio-sumarisimo-fa24000132-2024-09-17/123456789-231-0004-2ots-eupmocsollaf</guid>
-    </item>
+    <lastBuildDate>Sat, 09 Nov 2024 01:26:55 +0000</lastBuildDate>
     <item>
       <title>[[p]]RESTITUCION INTERNACIONAL DE MENORES-RETENCION DEL MENOR[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-parte-actora-causa--restitucion-internacional-menores-fa24000133-2024-09-17/123456789-331-0004-2ots-eupmocsollaf</link>
@@ -126,6 +120,12 @@
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-chaparro-miguel-angel-uba-facultad-derecho-proceso-conocimiento-fa24000158-2024-11-05/123456789-851-0004-2ots-eupmocsollaf</link>
       <description>[[p]]El actor -quien obtuvo el título de abogado en la Facultad de Derecho de la Universidad de Buenos Aires- no cumple los requisitos exigidos para acceder al diploma de honor, de conformidad con lo dispuesto por la resolución (CS) 4571/08, pues si bien aquél está comprendido en la categoría de ex alumno -ingresó desde el primer año y completó sus estudios en la facultad referida (art. 12 de la resolución citada)- lo cierto es que no cursó ni aprobó la totalidad de la carrera, sino que se le dieron por aprobadas dos materias obligatorias del ciclo básico común careciendo, por lo tanto, de una calificación numérica que pueda sumarse para obtener el promedio. -Del dictamen de la Procuración General al que la Corte remite-. -Los jueces Rosenkrantz y Maqueda, en disidencia, consideraron inadmisible el recurso extraordinario ([[r uuid:CT001]]Art. 208 CPCCN[[/r uuid:CT001]])-[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-chaparro-miguel-angel-uba-facultad-derecho-proceso-conocimiento-fa24000158-2024-11-05/123456789-851-0004-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]RESPONSABILIDAD POR PUBLICACIONES EN INTERNET-BUSCADORES DE INTERNET-BLOQUEO DE SITIOS DE INTERNET-LIBERTAD DE EXPRESION-FUNDAMENTACION DE SENTENCIAS-SENTENCIA ARBITRARIA[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-demandada-causa-vecchi-amado-alejandro-google-inc-danos-perjuicios-fa24000160-2024-11-05/123456789-061-0004-2ots-eupmocsollaf</link>
+      <description>[[p]]Es arbitraria la sentencia que condenó al buscador de internet a abonar una indemnización por daños, cesar en la difusión de la existencia de dos blogs y a eliminar dichos sitios web junto con las imágenes allí contenidas, pues el tribunal fundó su decisión sobre la base del estándar elaborado por la Corte Suprema en el caso "Rodríguez" (Fallos: 337:1174), habiendo omitido analizar una cuestión constitucional conducente para la solución del litigio, articulada de manera oportuna por la accionada, referida al examen de la licitud del contenido objetado y al ejercicio de la libertad de expresión en internet. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-demandada-causa-vecchi-amado-alejandro-google-inc-danos-perjuicios-fa24000160-2024-11-05/123456789-061-0004-2ots-eupmocsollaf</guid>
     </item>
   </channel>
 </rss>
