@@ -6,13 +6,7 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Nov 2024 01:43:25 +0000</lastBuildDate>
-    <item>
-      <title>[[p]]RESTITUCION INTERNACIONAL DE MENORES-RETENCION DEL MENOR[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-parte-actora-causa--restitucion-internacional-menores-fa24000133-2024-09-17/123456789-331-0004-2ots-eupmocsollaf</link>
-      <description>[[p]]Corresponde hacer lugar a la restitución del niño a España toda vez que existe una retención ilícita de éste en nuestro país en los términos del artículo 3 del Convenio de La Haya de 1980; no se encuentra configurada la excepción de grave riesgo del artículo 13, inciso b; y las expresiones del infante que constan en la causa no configuran una oposición con las características que debe reunir para encuadrar en la previsión del artículo 13, segundo párrafo del citado Convenio.[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-parte-actora-causa--restitucion-internacional-menores-fa24000133-2024-09-17/123456789-331-0004-2ots-eupmocsollaf</guid>
-    </item>
+    <lastBuildDate>Sat, 16 Nov 2024 01:41:05 +0000</lastBuildDate>
     <item>
       <title>[[p]]CRIMENES DE LESA HUMANIDAD-SENTENCIA ABSOLUTORIA-SENTENCIA ARBITRARIA-OCULTAMIENTO DEL MENOR-SUPRESION DEL ESTADO CIVIL-PRIVACION ILEGAL DE LA LIBERTAD COMETIDA POR FUNCIONARIO PUBLICO-TORMENTOS-MUJERES EMBARAZADAS-MEDICOS[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-fiscal-general-ante-camara-federal-casacion-penal-causa-martin-raul-eugenio-otros-incidente-recurso-extraordinario-fa24000139-2024-09-24/123456789-931-0004-2ots-eupmocsollaf</link>
@@ -126,6 +120,12 @@
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-actora-causa-en-interior-op-informacion-sumaria-fa24000159-2024-11-05/123456789-951-0004-2ots-eupmocsollaf</link>
       <description>[[p]]Toda vez que la parte recurrente no cuestiona la registración de un aspecto que hace a su identidad en un documento identificatorio, sino que requiere su inclusión bajo una modalidad determinada (femineidad travesti) que no está contemplada en la normativa vigente -sin tampoco objetar su constitucionalidad-, no puede, en estos términos, el juez reemplazar al legislador, concretando en esta instancia la diferenciación entre identificación e identidad para que quede nítidamente demarcado el ámbito de actuación del Estado (Voto del juez Rosatti).[[/p]][[p]]-La Corte declaró inadmisible el recurso extraordinario ([[r uuid:CT001]]art. 280 CPCCN[[/r uuid:CT001]])-[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-actora-causa-en-interior-op-informacion-sumaria-fa24000159-2024-11-05/123456789-951-0004-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]DELITOS CONTRA LA SALUD PUBLICA-COMERCIALIZACION DE MEDICAMENTOS-CONTROL SANITARIO-COMPETENCIA LOCAL[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-echeverria-martin-otros-incidente-incompetencia-fa24000161-2024-11-12/123456789-161-0004-2ots-eupmocsollaf</link>
+      <description>[[p]]Es competente la justicia local para entender en la causa donde se investiga la venta de productos médicos sin contar con la habilitación sanitaria requerida a tales fines, pues la infracción al [[r uuid:CT001]]artículo 204 quinquies del Código Penal[[/r uuid:CT001]] -calificación otorgada a los hechos- no se encuentra incluida en la [[r uuid:CT002]]ley 23.737[[/r uuid:CT002]] y no se advierte ningún otro elemento capaz de surtir la jurisdicción federal. -Del dictamen de la Procuración General al que la Corte remite-[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-echeverria-martin-otros-incidente-incompetencia-fa24000161-2024-11-12/123456789-161-0004-2ots-eupmocsollaf</guid>
     </item>
   </channel>
 </rss>
