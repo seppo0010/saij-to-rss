@@ -6,13 +6,7 @@
     <description>Tribunal: CORTE SUPREMA DE JUSTICIA DE LA NACION; Tipo de Documento: Jurisprudencia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Dec 2024 01:39:02 +0000</lastBuildDate>
-    <item>
-      <title>[[p]]CONTAMINACION AMBIENTAL-SENTENCIA DE LA CORTE SUPREMA-RECOMPOSICION DEL DAÑO AMBIENTAL-CUENCA MATANZA RIACHUELO[[/p]]</title>
-      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-mendoza-beatriz-silvia-estado-nacional-otros-danos-perjuicios-danos-derivados-contaminacion-ambiental-rio-matanza-riachuelo-fa24000155-2024-10-22/123456789-551-0004-2ots-eupmocsollaf</link>
-      <description>[[p]]Corresponde concluir que los objetivos institucionales propuestos por la sentencia de la Corte en la causa "Mendoza" se encuentran cumplidos con la aprobación del Plan Integral de Saneamiento Ambiental -PISA- que fija los objetivos a llevar a cabo para lograr la recomposición del bien colectivo- y con la creación de la Autoridad de Cuenca Matanza Riachuelo -ACUMAR- a cargo de su cumplimiento.[[/p]]</description>
-      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-mendoza-beatriz-silvia-estado-nacional-otros-danos-perjuicios-danos-derivados-contaminacion-ambiental-rio-matanza-riachuelo-fa24000155-2024-10-22/123456789-551-0004-2ots-eupmocsollaf</guid>
-    </item>
+    <lastBuildDate>Sat, 21 Dec 2024 01:36:40 +0000</lastBuildDate>
     <item>
       <title>[[p]]FILIACION-FERTILIZACION ASISTIDA-DETERMINACION DE LA FILIACION-CODIGO CIVIL Y COMERCIAL-GESTACION POR SUSTITUCION[[/p]]</title>
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recursos-hecho-deducidos-cla-causa--impugnacion-filiacion-ins-lgp-causa-civ-86767-2015-2-rh2-otro-impugnacion-filiacion-fa24000154-2024-10-22/123456789-451-0004-2ots-eupmocsollaf</link>
@@ -132,6 +126,12 @@
       <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-defensa-cristina-fernandez-kirchner-maximo-carlos-kirchner-romina-angeles-mercado-patricio-pereyra-arandia-causa-fernandez-kirchner-cristina-otros-incidente-recurso-extraordinario-fa24000180-2024-12-16/123456789-081-0004-2ots-eupmocsollaf</link>
       <description>[[p]]El recurso extraordinario interpuesto contra la sentencia que revocó el sobreseimiento de los imputados y devolvió las actuaciones para el cumplimiento de los actos procesales pendientes de producción es inadmisible, pues la defensa no ha logrado demostrar un agravio actual, concreto y real, diferente al mero hecho que implica el sometimiento al proceso penal de los recurrentes, razón por la cual la sentencia apelada no constituye una sentencia definitiva ni es equiparable a tal, y no se verifica circunstancia excepcional alguna que justifique la intervención de la Corte ([[r uuid:CT001]]art. 14 de la ley 48[[/r uuid:CT001]]). -El juez Lorenzetti, en su voto, consideró que debía desestimarse el recurso por no estar dirigido contra una sentencia definitiva o equiparable a tal-[[/p]]</description>
       <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-recurso-hecho-deducido-defensa-cristina-fernandez-kirchner-maximo-carlos-kirchner-romina-angeles-mercado-patricio-pereyra-arandia-causa-fernandez-kirchner-cristina-otros-incidente-recurso-extraordinario-fa24000180-2024-12-16/123456789-081-0004-2ots-eupmocsollaf</guid>
+    </item>
+    <item>
+      <title>[[p]]REELECCION DEL GOBERNADOR-CONSTITUCION PROVINCIAL-DECLARACION DE INCONSTITUCIONALIDAD[[/p]]</title>
+      <link>http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-confederacion-frente-amplio-formoseno-formosa-provincia-amparo-fa24000181-2024-12-19/123456789-181-0004-2ots-eupmocsollaf</link>
+      <description>[[p]]Es inconstitucional el [[r uuid:CT001]]art. 132 de la Constitución de Formosa[[/r uuid:CT001]] que dispone la reelección ilimitada del gobernador y vicegobernador por resultar violatoria de los artículos [[r uuid:CT002]]5[[/r uuid:CT002]], [[r uuid:CT003]]123 y concordantes[[/r uuid:CT003]] de la Constitución Nacional; texto que deberá ser corregido mediante el procedimiento constitucional previsto en la carta magna provincial (Voto de los jueces Rosatti y Maqueda y voto del juez Lorenzetti).[[/p]]</description>
+      <guid isPermaLink="false">http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-confederacion-frente-amplio-formoseno-formosa-provincia-amparo-fa24000181-2024-12-19/123456789-181-0004-2ots-eupmocsollaf</guid>
     </item>
   </channel>
 </rss>
